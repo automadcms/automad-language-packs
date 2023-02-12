@@ -2,7 +2,7 @@
 
 A collection of language packs for the Automad dashboard.
 
-This package replaces the internal language packs and will be the default collection if translations for the upcoming Automad version 2.
+This package replaces the internal language packs and will be the default collection of translations for the upcoming Automad version 2.
 
 > Note it is not possible to use the included language packs with Automad version 1!
 
