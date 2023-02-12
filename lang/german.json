@@ -236,7 +236,6 @@
     "systemDebugInfo": "Wenn das Debuggen aktiviert ist, werden alle Prozesse von Automad bei der Konsole Ihres Browsers aufgezeichnet. Debugging ist nur für die Entwicklung oder Fehlerbehebung erforderlich und sollte in allen anderen Fällen deaktiviert werden.",
     "systemLanguage": "Sprache",
     "systemLanguageCardInfo": "Ändern Sie die Sprache für das Automad-Dashboard",
-    "systemLanguageInfo": "Für das Dashboard stehen mehrere Sprachen zur Verfügung. Wählen sie hier ihre gewünschte Sprache aus.",
     "systemRssFeedCardInfo": "Aktivieren und konfigurieren Sie den RSS-Feed für Ihre Website",
     "systemRssFeedFields": "Sie können die Felder sortieren, hinzufügen oder entfernen, die im RSS-Feed enthalten sein sollten, indem Sie sie in einen der beiden Bereiche unten ziehen.",
     "systemRssFeedFieldsInfoUnused": "Bewegen Sie Elemente in diesen Bereich, um sie aus dem RSS-Feed zu entfernen",
