@@ -103,7 +103,9 @@
     "fieldsColors": "Farben",
     "fieldsContent": "Inhalt",
     "fieldsSettings": "Einstellungen",
+    "file": "Datei",
     "fileName": "Dateinamen",
+    "files": "Dateien",
     "filterContent": "Inhalt filtern",
     "filtersTab": "Filter",
     "finetuneTab": "Feinabstimmung",
@@ -239,6 +241,7 @@
     "preview": "Vorschau",
     "quality": "Qualität",
     "rawHtmlMarkdown": "HTML/Markdown",
+    "recentlyEditedPages": "Kürzlich bearbeitete Seiten",
     "rectangleTool": "Rechteck",
     "redirectPage": "Seite zu einer anderen URL umleiten",
     "redoTitle": "Letzte Operation wiederholen",
@@ -412,9 +415,11 @@
     "usernameOrEmail": "Benutzername oder E-Mail-Adresse",
     "value": "Wert",
     "vertical": "Vertikal",
+    "visit": "Besuchen",
     "warmthTool": "Wärme",
     "watermarkTab": "Wasserzeichen",
     "write": "Schreiben",
     "zoomInTitle": "Hineinzoomen",
     "zoomOutTitle": "Rauszoomen"
 }
+
