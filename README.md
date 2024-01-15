@@ -1,6 +1,6 @@
 # Automad Language Packs
 
-A collection of language packs for the Automad dashboard.
+A collection of language packs for the [Automad](https://automad.org) dashboard.
 
 This package replaces the internal language packs and will be the default collection of translations for the upcoming Automad version 2.
 
@@ -14,3 +14,5 @@ Therefore any help improving those tranlations is more than welcome. Just make a
 
 The original English text modules can be found in the official [Automad repository](https://github.com/marcantondahmen/automad)
 under `automad/lang/english.json`.
+
+Please also take a look at the [contributing guide](CONTRIBUTING.md) for this repository before starting your work!
