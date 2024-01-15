@@ -243,6 +243,7 @@
     "pageSlug": "Nome della directory",
     "pageTags": "Tag (separa più tag con una virgola o una tabulazione)",
     "pageTemplate": "Template",
+    "pagelistBlockContext": "Pagina madre",
     "pagelistBlockDefaultFile": "Predefinito",
     "pagelistBlockExcludeCurrent": "Escludi questa pagina",
     "pagelistBlockExcludeHidden": "Escludere le pagine nascoste",

@@ -243,6 +243,7 @@
     "pageSlug": "Ime imenika",
     "pageTags": "Oznake (več oznak ločite z vejico ali tabulatorjem)",
     "pageTemplate": "Predloga",
+    "pagelistBlockContext": "Nadrejena stran",
     "pagelistBlockDefaultFile": "Privzeto",
     "pagelistBlockExcludeCurrent": "Izključi to stran",
     "pagelistBlockExcludeHidden": "Izključite skrite strani",

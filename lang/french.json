@@ -243,6 +243,7 @@
     "pageSlug": "Nom de l'annuaire",
     "pageTags": "Tags (sépare les tags multiples par une virgule ou une tabulation)",
     "pageTemplate": "Modèle",
+    "pagelistBlockContext": "Page d'accueil",
     "pagelistBlockDefaultFile": "Défaut",
     "pagelistBlockExcludeCurrent": "Exclure cette page",
     "pagelistBlockExcludeHidden": "Exclure les pages cachées",

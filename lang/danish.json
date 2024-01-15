@@ -243,6 +243,7 @@
     "pageSlug": "Navn på katalog",
     "pageTags": "Tags (Adskil flere tags med komma eller tabulator)",
     "pageTemplate": "Skabelon",
+    "pagelistBlockContext": "Forældre side",
     "pagelistBlockDefaultFile": "Standard",
     "pagelistBlockExcludeCurrent": "Ekskluder denne side",
     "pagelistBlockExcludeHidden": "Ekskluder skjulte sider",

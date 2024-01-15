@@ -243,6 +243,7 @@
     "pageSlug": "Nume director",
     "pageTags": "Etichete (Separați mai multe etichete prin virgulă sau tab)",
     "pageTemplate": "Șablon",
+    "pagelistBlockContext": "Pagina părintească",
     "pagelistBlockDefaultFile": "Default",
     "pagelistBlockExcludeCurrent": "Excludeți această pagină",
     "pagelistBlockExcludeHidden": "Excludeți paginile ascunse",

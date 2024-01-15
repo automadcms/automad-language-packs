@@ -243,6 +243,7 @@
     "pageSlug": "目录名称",
     "pageTags": "标签（用逗号或制表符分隔多个标签）",
     "pageTemplate": "模板",
+    "pagelistBlockContext": "父页面",
     "pagelistBlockDefaultFile": "默认设置",
     "pagelistBlockExcludeCurrent": "排除本页",
     "pagelistBlockExcludeHidden": "排除隐藏页面",

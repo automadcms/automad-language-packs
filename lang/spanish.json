@@ -243,6 +243,7 @@
     "pageSlug": "Nombre del directorio",
     "pageTags": "Etiquetas (separa varias etiquetas con una coma o un tabulador)",
     "pageTemplate": "Plantilla",
+    "pagelistBlockContext": "Página principal",
     "pagelistBlockDefaultFile": "Por defecto",
     "pagelistBlockExcludeCurrent": "Excluir esta página",
     "pagelistBlockExcludeHidden": "Excluir páginas ocultas",

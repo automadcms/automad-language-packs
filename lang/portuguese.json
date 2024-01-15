@@ -243,6 +243,7 @@
     "pageSlug": "Nome do diretório",
     "pageTags": "Etiquetas (Separa várias etiquetas por vírgula ou separador)",
     "pageTemplate": "Modelo",
+    "pagelistBlockContext": "Página principal",
     "pagelistBlockDefaultFile": "Predefinição",
     "pagelistBlockExcludeCurrent": "Exclui esta página",
     "pagelistBlockExcludeHidden": "Exclui páginas ocultas",

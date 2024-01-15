@@ -243,6 +243,7 @@
     "pageSlug": "ディレクトリ名",
     "pageTags": "タグ（複数のタグをコンマまたはタブで区切る）",
     "pageTemplate": "テンプレート",
+    "pagelistBlockContext": "親ページ",
     "pagelistBlockDefaultFile": "デフォルト",
     "pagelistBlockExcludeCurrent": "このページを除く",
     "pagelistBlockExcludeHidden": "隠しページを除外する",

@@ -243,6 +243,7 @@
     "pageSlug": "Címtár neve",
     "pageTags": "Címkék (több címke elválasztása vesszővel vagy tabulátorral)",
     "pageTemplate": "Sablon",
+    "pagelistBlockContext": "Szülői oldal",
     "pagelistBlockDefaultFile": "Alapértelmezett",
     "pagelistBlockExcludeCurrent": "Az oldal kizárása",
     "pagelistBlockExcludeHidden": "Rejtett oldalak kizárása",

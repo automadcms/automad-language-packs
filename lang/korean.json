@@ -243,6 +243,7 @@
     "pageSlug": "디렉토리 이름",
     "pageTags": "태그(여러 개의 태그를 쉼표 또는 탭으로 구분)",
     "pageTemplate": "템플릿",
+    "pagelistBlockContext": "상위 페이지",
     "pagelistBlockDefaultFile": "기본값",
     "pagelistBlockExcludeCurrent": "이 페이지 제외",
     "pagelistBlockExcludeHidden": "숨겨진 페이지 제외",

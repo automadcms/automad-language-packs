@@ -243,6 +243,7 @@
     "pageSlug": "Naam Directory",
     "pageTags": "Tags (Meerdere tags scheiden door komma of tab)",
     "pageTemplate": "Sjabloon",
+    "pagelistBlockContext": "Ouder pagina",
     "pagelistBlockDefaultFile": "Standaard",
     "pagelistBlockExcludeCurrent": "Deze pagina uitsluiten",
     "pagelistBlockExcludeHidden": "Verborgen pagina's uitsluiten",

@@ -243,6 +243,7 @@
     "pageSlug": "Име на директорията",
     "pageTags": "Етикети (отделяйте няколко етикета със запетая или табулатор)",
     "pageTemplate": "Шаблон",
+    "pagelistBlockContext": "Родителска страница",
     "pagelistBlockDefaultFile": "По подразбиране",
     "pagelistBlockExcludeCurrent": "Изключване на тази страница",
     "pagelistBlockExcludeHidden": "Изключване на скрити страници",

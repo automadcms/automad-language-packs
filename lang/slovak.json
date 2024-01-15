@@ -243,6 +243,7 @@
     "pageSlug": "Názov adresára",
     "pageTags": "Značky (Viaceré značky oddeľte čiarkou alebo tabulátorom)",
     "pageTemplate": "Šablóna",
+    "pagelistBlockContext": "Nadradená stránka",
     "pagelistBlockDefaultFile": "Predvolená stránka",
     "pagelistBlockExcludeCurrent": "Vylúčiť túto stránku",
     "pagelistBlockExcludeHidden": "Vylúčiť skryté stránky",

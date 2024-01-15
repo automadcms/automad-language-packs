@@ -243,6 +243,7 @@
     "pageSlug": "Kataloga nosaukums",
     "pageTags": "Tags (Atdaliet vairākas tagus ar komatu vai cilni)",
     "pageTemplate": "Šablons",
+    "pagelistBlockContext": "Vecāka lapa",
     "pagelistBlockDefaultFile": "Noklusējuma",
     "pagelistBlockExcludeCurrent": "Izslēgt šo lapu",
     "pagelistBlockExcludeHidden": "Izslēgt slēptās lapas",

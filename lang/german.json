@@ -243,6 +243,7 @@
     "pageSlug": "Verzeichnisname",
     "pageTags": "Tags (Trenne mehrere Tags durch Komma oder Tab)",
     "pageTemplate": "Seiten-Template",
+    "pagelistBlockContext": "Übergeordnete Seite",
     "pagelistBlockDefaultFile": "Standard",
     "pagelistBlockExcludeCurrent": "Diese Seite ausschließen",
     "pagelistBlockExcludeHidden": "Versteckte Seiten ausschließen",

@@ -243,6 +243,7 @@
     "pageSlug": "Navn på katalog",
     "pageTags": "Tagger (skille flere tagger med komma eller tabulator)",
     "pageTemplate": "Mal",
+    "pagelistBlockContext": "Overordnet side",
     "pagelistBlockDefaultFile": "Standardinnstillinger",
     "pagelistBlockExcludeCurrent": "Ekskluder denne siden",
     "pagelistBlockExcludeHidden": "Ekskluder skjulte sider",

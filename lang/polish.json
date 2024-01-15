@@ -243,6 +243,7 @@
     "pageSlug": "Nazwa katalogu",
     "pageTags": "Tagi (oddziel wiele tagów przecinkiem lub tabulatorem)",
     "pageTemplate": "Szablon",
+    "pagelistBlockContext": "Strona nadrzędna",
     "pagelistBlockDefaultFile": "Domyślnie",
     "pagelistBlockExcludeCurrent": "Wyklucz tę stronę",
     "pagelistBlockExcludeHidden": "Wyklucz ukryte strony",

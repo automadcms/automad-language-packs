@@ -243,6 +243,7 @@
     "pageSlug": "Назва каталогу",
     "pageTags": "Теги (Розділення декількох тегів комою або табуляцією)",
     "pageTemplate": "Шаблон",
+    "pagelistBlockContext": "Батьківська сторінка",
     "pagelistBlockDefaultFile": "За замовчуванням",
     "pagelistBlockExcludeCurrent": "Виключити цю сторінку",
     "pagelistBlockExcludeHidden": "Виключення прихованих сторінок",

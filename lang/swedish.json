@@ -243,6 +243,7 @@
     "pageSlug": "Namn på katalog",
     "pageTags": "Taggar (Separera flera taggar med kommatecken eller tabb)",
     "pageTemplate": "Mall",
+    "pagelistBlockContext": "Föräldrasida",
     "pagelistBlockDefaultFile": "Standard",
     "pagelistBlockExcludeCurrent": "Undanta denna sida",
     "pagelistBlockExcludeHidden": "Uteslut dolda sidor",

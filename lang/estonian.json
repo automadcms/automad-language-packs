@@ -243,6 +243,7 @@
     "pageSlug": "Kataloogi nimi",
     "pageTags": "Sildid (eraldage mitu sildi koma või tabulaatoriga)",
     "pageTemplate": "Mall",
+    "pagelistBlockContext": "Vanem lehekülg",
     "pagelistBlockDefaultFile": "Vaikimisi",
     "pagelistBlockExcludeCurrent": "Selle lehekülje väljajätmine",
     "pagelistBlockExcludeHidden": "Varjatud lehekülgede väljajätmine",

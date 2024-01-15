@@ -243,6 +243,7 @@
     "pageSlug": "Katalogo pavadinimas",
     "pageTags": "Žymos (kelias žymas atskirkite kableliu arba skirtuku)",
     "pageTemplate": "Šablonas",
+    "pagelistBlockContext": "Pagrindinis puslapis",
     "pagelistBlockDefaultFile": "Numatytoji",
     "pagelistBlockExcludeCurrent": "Išskirti šį puslapį",
     "pagelistBlockExcludeHidden": "Išskirti paslėptus puslapius",

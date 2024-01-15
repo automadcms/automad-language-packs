@@ -243,6 +243,7 @@
     "pageSlug": "Hakemiston nimi",
     "pageTags": "Tunnisteet (erottele useat tunnisteet pilkulla tai välilehdellä).",
     "pageTemplate": "Malli",
+    "pagelistBlockContext": "Vanhemmat sivut",
     "pagelistBlockDefaultFile": "Oletus",
     "pagelistBlockExcludeCurrent": "Sulje tämä sivu pois",
     "pagelistBlockExcludeHidden": "Piilotettujen sivujen poissulkeminen",
