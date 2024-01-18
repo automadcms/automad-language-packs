@@ -16,3 +16,4 @@ The original English text modules can be found in the official [Automad reposito
 under `automad/lang/english.json`.
 
 Please also take a look at the [contributing guide](CONTRIBUTING.md) for this repository before starting your work!
+Note that only pull-requests that follow the contribution guide will be accepted.
