@@ -164,6 +164,7 @@
     "insertLink": "Inserisci link",
     "insertTable": "Inserisci tabella",
     "invalidEmailError": "Indirizzo e-mail non valido!",
+    "invalidFieldError": "Campo non valido",
     "invalidFormError": "Dati incompleti o errati!<br />Tutti i campi sono obbligatori e devono essere compilati come descritto!",
     "invalidImageError": "Immagine non valida.",
     "invalidUsernameError": "Nome utente non valido! Un nome utente può contenere solo i seguenti caratteri:",

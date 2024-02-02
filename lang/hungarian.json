@@ -164,6 +164,7 @@
     "insertLink": "Link beillesztése",
     "insertTable": "Táblázat beillesztése",
     "invalidEmailError": "Érvénytelen e-mail cím!",
+    "invalidFieldError": "Érvénytelen mező",
     "invalidFormError": "Hiányos vagy hibás adatok!<br />Minden mező kötelezően kitöltendő és a leírtak szerint kell kitölteni!",
     "invalidImageError": "A megadott kép érvénytelen.",
     "invalidUsernameError": "Érvénytelen felhasználónév! A felhasználónév csak a következő karaktereket tartalmazhatja:",

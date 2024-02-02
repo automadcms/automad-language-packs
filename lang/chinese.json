@@ -164,6 +164,7 @@
     "insertLink": "插入链接",
     "insertTable": "插入表格",
     "invalidEmailError": "电子邮件地址无效！",
+    "invalidFieldError": "无效字段",
     "invalidFormError": "数据不完整或不正确！<br />所有字段均为必填字段，必须按说明填写！",
     "invalidImageError": "提供的图片无效。",
     "invalidUsernameError": "无效用户名！用户名只能包含以下字符：",

@@ -164,6 +164,7 @@
     "insertLink": "Infoga länk",
     "insertTable": "Infoga tabell",
     "invalidEmailError": "E-postadressen är ogiltig!",
+    "invalidFieldError": "Ogiltigt fält",
     "invalidFormError": "Ofullständiga eller felaktiga uppgifter!<br />Alla fält är obligatoriska och måste fyllas i enligt beskrivningen!",
     "invalidImageError": "Invalid image provided.",
     "invalidUsernameError": "Ogiltigt användarnamn! Ett användarnamn får endast innehålla följande tecken:",

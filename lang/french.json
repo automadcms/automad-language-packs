@@ -164,6 +164,7 @@
     "insertLink": "Insérer un lien",
     "insertTable": "Insérer un tableau",
     "invalidEmailError": "Adresse e-mail invalide!",
+    "invalidFieldError": "Champ invalide",
     "invalidFormError": "Données incomplètes ou incorrectes!<br />Tous les champs sont obligatoires et doivent être remplis comme indiqué!",
     "invalidImageError": "Image invalide fournie.",
     "invalidUsernameError": "Nom d'utilisateur invalide! Un nom d'utilisateur ne peut contenir que les caractères suivants :",

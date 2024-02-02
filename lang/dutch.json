@@ -164,6 +164,7 @@
     "insertLink": "Link invoegen",
     "insertTable": "Tabel invoegen",
     "invalidEmailError": "Ongeldig e-mailadres!",
+    "invalidFieldError": "Ongeldig veld",
     "invalidFormError": "Onvolledige of onjuiste gegevens!<br />Alle velden zijn verplicht en moeten worden ingevuld zoals beschreven!",
     "invalidImageError": "Ongeldige afbeelding geleverd.",
     "invalidUsernameError": "Ongeldige gebruikersnaam! Een gebruikersnaam kan alleen de volgende tekens bevatten:",

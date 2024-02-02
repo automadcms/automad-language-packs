@@ -164,6 +164,7 @@
     "insertLink": "Saites ievietošana",
     "insertTable": "Tabulas ievietošana",
     "invalidEmailError": "Nederīga e-pasta adrese!",
+    "invalidFieldError": "Nederīgs lauks",
     "invalidFormError": "Nepilnīgi vai nepareizi dati!<br />Visi lauki ir obligāti un jāaizpilda atbilstoši aprakstam!",
     "invalidImageError": "Sniegts nepareizs attēls.",
     "invalidUsernameError": "Nederīgs lietotājvārds! Lietotājvārdā var būt tikai šādas rakstzīmes:",

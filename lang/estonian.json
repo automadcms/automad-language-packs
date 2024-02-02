@@ -164,6 +164,7 @@
     "insertLink": "Sisestage link",
     "insertTable": "Tabeli sisestamine",
     "invalidEmailError": "Vale e-posti aadress!",
+    "invalidFieldError": "Invaliidne väli",
     "invalidFormError": "Ebatäielikud või valed andmed!<br />Kõik väljad on kohustuslikud ja peavad olema täidetud nii nagu kirjeldatud!",
     "invalidImageError": "Puudulik pilt on esitatud.",
     "invalidUsernameError": "Vale kasutajanimi! Kasutajanimi võib sisaldada ainult järgmisi sümboleid:",

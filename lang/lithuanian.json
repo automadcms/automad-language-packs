@@ -164,6 +164,7 @@
     "insertLink": "Įterpti nuorodą",
     "insertTable": "Įterpti lentelę",
     "invalidEmailError": "Netinkamas el. pašto adresas!",
+    "invalidFieldError": "Negaliojantis laukas",
     "invalidFormError": "Neišsamūs arba neteisingi duomenys!<br />Visi laukai yra privalomi ir turi būti užpildyti taip, kaip aprašyta!",
     "invalidImageError": "Pateiktas netinkamas paveikslėlis.",
     "invalidUsernameError": "Neteisingas vartotojo vardas! Naudotojo vardą gali sudaryti tik šie simboliai:",

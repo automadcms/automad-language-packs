@@ -164,6 +164,7 @@
     "insertLink": "링크 삽입",
     "insertTable": "표 삽입",
     "invalidEmailError": "이메일 주소가 잘못되었습니다!",
+    "invalidFieldError": "잘못된 필드",
     "invalidFormError": "불완전하거나 부정확한 데이터!<br />모든 필드는 필수이며 설명에 따라 작성해야 합니다!",
     "invalidImageError": "제공된 이미지가 잘못되었습니다.",
     "invalidUsernameError": "사용자 아이디가 잘못되었습니다! 사용자 아이디에는 다음 문자만 포함할 수 있습니다:",

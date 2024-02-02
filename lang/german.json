@@ -164,6 +164,7 @@
     "insertLink": "Link einfügen",
     "insertTable": "Tabelle einfügen",
     "invalidEmailError": "Ungültige E-Mail Adresse!",
+    "invalidFieldError": "Ungültiges Feld",
     "invalidFormError": "Unvollständige oder falsche Daten!<br />Alle Felder sind Pflichtfelder und müssen wie beschrieben ausgefüllt werden!",
     "invalidImageError": "Ungültiges Bild bereitgestellt.",
     "invalidUsernameError": "Ungültiger Benutzername! Ein Benutzername darf nur die folgenden Zeichen enthalten:",

@@ -164,6 +164,7 @@
     "insertLink": "Inserir ligação",
     "insertTable": "Inserir tabela",
     "invalidEmailError": "Endereço de e-mail inválido!",
+    "invalidFieldError": "Campo inválido",
     "invalidFormError": "Dados incompletos ou incorrectos!<br />Todos os campos são obrigatórios e têm de ser preenchidos conforme descrito!",
     "invalidImageError": "A imagem fornecida é inválida.",
     "invalidUsernameError": "Nome de utilizador inválido! Um nome de utilizador só pode conter os seguintes caracteres:",

@@ -164,6 +164,7 @@
     "insertLink": "Vstavite povezavo",
     "insertTable": "Vstavite tabelo",
     "invalidEmailError": "Nepravilen e-poštni naslov!",
+    "invalidFieldError": "Neveljavno polje",
     "invalidFormError": "Nepopolni ali nepravilni podatki!<br />Vsa polja so obvezna in morajo biti izpolnjena, kot je opisano!",
     "invalidImageError": "Navedena je napačna slika.",
     "invalidUsernameError": "Nepravilno uporabniško ime! Uporabniško ime lahko vsebuje samo naslednje znake:",

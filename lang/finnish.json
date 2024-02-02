@@ -164,6 +164,7 @@
     "insertLink": "Lisää linkki",
     "insertTable": "Lisää taulukko",
     "invalidEmailError": "Virheellinen sähköpostiosoite!",
+    "invalidFieldError": "Virheellinen kenttä",
     "invalidFormError": "Puutteelliset tai virheelliset tiedot!<br />Kaikki kentät ovat pakollisia ja ne on täytettävä kuvatulla tavalla!",
     "invalidImageError": "Toimitettu kuva on virheellinen.",
     "invalidUsernameError": "Virheellinen käyttäjätunnus! Käyttäjätunnus voi sisältää vain seuraavia merkkejä:",

@@ -164,6 +164,7 @@
     "insertLink": "Vložení odkazu",
     "insertTable": "Vložení tabulky",
     "invalidEmailError": "Neplatná e-mailová adresa!",
+    "invalidFieldError": "Neplatné pole",
     "invalidFormError": "Neúplné nebo nesprávné údaje!<br />Všechna pole jsou povinná a musí být vyplněna podle popisu!",
     "invalidImageError": "Neplatný poskytnutý obrázek.",
     "invalidUsernameError": "Neplatné uživatelské jméno! Uživatelské jméno může obsahovat pouze následující znaky:",

@@ -164,6 +164,7 @@
     "insertLink": "Indsæt link",
     "insertTable": "Indsæt tabel",
     "invalidEmailError": "Ugyldig e-mailadresse!",
+    "invalidFieldError": "Ugyldigt felt",
     "invalidFormError": "Ufuldstændige eller forkerte data!<br />Alle felter er obligatoriske og skal udfyldes som beskrevet!",
     "invalidImageError": "Ugyldigt billede leveret.",
     "invalidUsernameError": "Ugyldigt brugernavn! Et brugernavn kan kun indeholde følgende tegn:",

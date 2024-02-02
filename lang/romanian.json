@@ -164,6 +164,7 @@
     "insertLink": "Introduceți un link",
     "insertTable": "Introduceți un tabel",
     "invalidEmailError": "Adresa de e-mail invalidă!",
+    "invalidFieldError": "Câmpul invalid",
     "invalidFormError": "Date incomplete sau incorecte!<br />Toate câmpurile sunt obligatorii și trebuie completate așa cum sunt descrise!",
     "invalidImageError": "Imagine invalidă furnizată.",
     "invalidUsernameError": "Nume de utilizator invalid! Un nume de utilizator poate conține doar următoarele caractere:",

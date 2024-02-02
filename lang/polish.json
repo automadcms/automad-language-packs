@@ -164,6 +164,7 @@
     "insertLink": "Wstaw link",
     "insertTable": "Wstaw tabelę",
     "invalidEmailError": "Nieprawidłowy adres e-mail!",
+    "invalidFieldError": "Nieprawidłowe pole",
     "invalidFormError": "Niekompletne lub nieprawidłowe dane!<br />Wszystkie pola są wymagane i muszą być wypełnione zgodnie z opisem!",
     "invalidImageError": "Podano nieprawidłowy obraz.",
     "invalidUsernameError": "Nieprawidłowa nazwa użytkownika! Nazwa użytkownika może zawierać tylko następujące znaki:",
