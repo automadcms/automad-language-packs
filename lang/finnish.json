@@ -94,6 +94,7 @@
     "editImage": "Muokkaa kuvaa",
     "editStyle": "Muokkaa tyyliä",
     "editorPlaceholder": "Klikkaa tästä lisätäksesi sisältöä",
+    "editorSmallDisplayAlert": "Näyttö on liian pieni lohkoeditorin käyttämiseen. Vaihda isompaan laitteeseen muokkausta varten.",
     "ellipse": "Ellipsi",
     "ellipseTool": "Ellipsi",
     "email": "Sähköpostiosoite",

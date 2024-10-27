@@ -94,6 +94,7 @@
     "editImage": "Redigera bild",
     "editStyle": "Redigera stil",
     "editorPlaceholder": "Klicka här för att lägga till innehåll",
+    "editorSmallDisplayAlert": "Skärmen är för liten för att använda blockredigeraren. Vänligen byt till en större enhet för redigering.",
     "ellipse": "Ellips",
     "ellipseTool": "Ellips",
     "email": "E-postadress",

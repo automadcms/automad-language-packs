@@ -94,6 +94,7 @@
     "editImage": "Attēlu rediģēšana",
     "editStyle": "Rediģēt stilu",
     "editorPlaceholder": "Noklikšķiniet šeit, lai pievienotu saturu",
+    "editorSmallDisplayAlert": "Displejs ir pārāk mazs, lai izmantotu bloku redaktoru. Rediģēšanai pārejiet uz lielāku ierīci.",
     "ellipse": "Ellipse",
     "ellipseTool": "Ellipse",
     "email": "E-pasta adrese",

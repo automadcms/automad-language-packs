@@ -94,6 +94,7 @@
     "editImage": "Modifica immagine",
     "editStyle": "Modifica lo stile",
     "editorPlaceholder": "Clicca qui per aggiungere contenuti",
+    "editorSmallDisplayAlert": "Il display è troppo piccolo per utilizzare l'editor di blocchi. Ti invitiamo a passare a un dispositivo più grande per la modifica.",
     "ellipse": "Ellisse",
     "ellipseTool": "Ellisse",
     "email": "Indirizzo e-mail",

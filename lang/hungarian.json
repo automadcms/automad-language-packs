@@ -94,6 +94,7 @@
     "editImage": "Kép szerkesztése",
     "editStyle": "Stílus szerkesztése",
     "editorPlaceholder": "Kattintson ide a tartalom hozzáadásához",
+    "editorSmallDisplayAlert": "A kijelző túl kicsi a blokkszerkesztő használatához. Kérjük, váltson nagyobb készülékre a szerkesztéshez.",
     "ellipse": "Ellipszis",
     "ellipseTool": "Ellipszis",
     "email": "E-mail cím",

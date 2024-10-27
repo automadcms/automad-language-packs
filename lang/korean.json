@@ -94,6 +94,7 @@
     "editImage": "이미지 편집",
     "editStyle": "스타일 편집",
     "editorPlaceholder": "콘텐츠를 추가하려면 여기를 클릭하세요.",
+    "editorSmallDisplayAlert": "디스플레이가 너무 작아서 블록 편집기를 사용할 수 없습니다. 편집하려면 더 큰 디바이스로 변경하세요.",
     "ellipse": "타원",
     "ellipseTool": "타원",
     "email": "이메일 주소",

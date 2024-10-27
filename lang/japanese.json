@@ -94,6 +94,7 @@
     "editImage": "画像を編集する",
     "editStyle": "スタイルを編集する",
     "editorPlaceholder": "コンテンツを追加するにはここをクリック",
+    "editorSmallDisplayAlert": "ブロックエディターを使うにはディスプレイが小さすぎる。編集のために大きいデバイスに変更しなさい。",
     "ellipse": "楕円",
     "ellipseTool": "楕円",
     "email": "Eメールアドレス",

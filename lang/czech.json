@@ -94,6 +94,7 @@
     "editImage": "Úprava obrázku",
     "editStyle": "Upravit styl",
     "editorPlaceholder": "Kliknutím sem přidáte obsah",
+    "editorSmallDisplayAlert": "Zobrazení je příliš malé pro použití blokového editoru. Pro úpravy si prosím přepněte na větší zařízení.",
     "ellipse": "Elipsa",
     "ellipseTool": "Elipsa",
     "email": "E-mailová adresa",

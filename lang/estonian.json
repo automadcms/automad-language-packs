@@ -94,6 +94,7 @@
     "editImage": "Pildi redigeerimine",
     "editStyle": "Stiili muutmine",
     "editorPlaceholder": "Sisu lisamiseks klõpsake siin",
+    "editorSmallDisplayAlert": "Plokkredaktori kasutamiseks on ekraan liiga väike. Palun vahetage redigeerimiseks suurem seade.",
     "ellipse": "Ellipse",
     "ellipseTool": "Ellipse",
     "email": "E-posti aadress",

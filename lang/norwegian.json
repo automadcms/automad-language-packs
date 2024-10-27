@@ -94,6 +94,7 @@
     "editImage": "Rediger bilder",
     "editStyle": "Rediger stil",
     "editorPlaceholder": "Klikk her for å legge til innhold",
+    "editorSmallDisplayAlert": "Skjermen er for liten til å bruke blokkeredigeringsverktøyet. Vennligst bytt til en større enhet for redigering.",
     "ellipse": "Ellipse",
     "ellipseTool": "Ellipse",
     "email": "E-postadresse",

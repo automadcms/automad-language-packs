@@ -94,6 +94,7 @@
     "editImage": "编辑图片",
     "editStyle": "编辑风格",
     "editorPlaceholder": "单击此处添加内容",
+    "editorSmallDisplayAlert": "显示屏太小，不适合使用块编辑器。请换用较大的设备进行编辑。",
     "ellipse": "椭圆形",
     "ellipseTool": "椭圆形",
     "email": "电子邮件地址",
