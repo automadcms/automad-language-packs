@@ -231,6 +231,8 @@
     "noThemesFound": "¡No hay temas ni plantillas instalados!",
     "ok": "Ok",
     "opacity": "Opacidad",
+    "openGraphImage": "Open-Graph Imagen (dejar en blanco para utilizar la imagen generada automáticamente)",
+    "openGraphImageShared": "Open-Graph Imagen (anula las imágenes Open-Graph generadas automáticamente en todo el sitio)",
     "openInNewTab": "Abrir en una pestaña nueva",
     "optimizeContentForCards": "Optimiza el contenido de las tarjetas",
     "orderedList": "Lista ordenada",

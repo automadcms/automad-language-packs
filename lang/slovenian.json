@@ -231,6 +231,8 @@
     "noThemesFound": "Nameščene niso nobene teme in predloge!",
     "ok": "Ok",
     "opacity": "Nepreglednost",
+    "openGraphImage": "Open-Graph Slika (pustite prazno, če želite uporabiti samodejno ustvarjeno sliko)",
+    "openGraphImageShared": "Open-Graph Slika (nadomešča samodejno ustvarjene slike Open-Graph na celotnem spletnem mestu)",
     "openInNewTab": "Odprite v novem zavihku",
     "optimizeContentForCards": "Optimizacija vsebine za kartice",
     "orderedList": "Urejen seznam",

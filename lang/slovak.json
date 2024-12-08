@@ -231,6 +231,8 @@
     "noThemesFound": "Nie sú nainštalované žiadne témy a šablóny!",
     "ok": "Ok",
     "opacity": "Nepriehľadnosť",
+    "openGraphImage": "Open-Graph Obrázok (nechajte prázdne, aby sa použil automaticky generovaný obrázok)",
+    "openGraphImageShared": "Open-Graph Obrázok (prepíše automaticky generované obrázky Open-Graph na celej lokalite)",
     "openInNewTab": "Otvoriť v novej karte",
     "optimizeContentForCards": "Optimalizácia obsahu pre karty",
     "orderedList": "Usporiadaný zoznam",

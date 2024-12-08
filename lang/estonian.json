@@ -231,6 +231,8 @@
     "noThemesFound": "Teemasid ja malle ei ole paigaldatud!",
     "ok": "Ok",
     "opacity": "Läbipaistvus",
+    "openGraphImage": "Open-Graph Pilt (jäta tühjaks, et kasutada automaatselt genereeritud pilti).",
+    "openGraphImageShared": "Open-Graph Pilt (tühistab automaatselt genereeritud Open-Graph pildid kogu saidil).",
     "openInNewTab": "Avaneb uues vahekaardis",
     "optimizeContentForCards": "Sisu optimeerimine kaartide jaoks",
     "orderedList": "Järjestatud loetelu",

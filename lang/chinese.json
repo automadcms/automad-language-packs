@@ -231,6 +231,8 @@
     "noThemesFound": "没有安装主题和模板！",
     "ok": "好的",
     "opacity": "不透明度",
+    "openGraphImage": "Open-Graph 图片（留空以使用自动生成的图片）",
+    "openGraphImageShared": "Open-Graph 图片（覆盖全站自动生成的 图片）Open-Graph ",
     "openInNewTab": "在新标签页中打开",
     "optimizeContentForCards": "优化卡片内容",
     "orderedList": "有序列表",

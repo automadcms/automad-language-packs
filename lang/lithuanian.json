@@ -231,6 +231,8 @@
     "noThemesFound": "Nėra įdiegta jokių temų ir šablonų!",
     "ok": "Gerai",
     "opacity": "Nepermatomumas",
+    "openGraphImage": "Open-Graph Paveiksliukas (palikite tuščią vietą, kad būtų naudojamas automatiškai sugeneruotas paveikslėlis)",
+    "openGraphImageShared": "Open-Graph Vaizdas (pakeičia automatiškai generuojamus Open-Graph svetainės vaizdus)",
     "openInNewTab": "Atidaryti naujame skirtuke",
     "optimizeContentForCards": "Turinio optimizavimas kortelėms",
     "orderedList": "Sutvarkytas sąrašas",

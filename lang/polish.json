@@ -231,6 +231,8 @@
     "noThemesFound": "Nie ma zainstalowanych motywów i szablonów!",
     "ok": "Ok",
     "opacity": "Krycie",
+    "openGraphImage": "Open-Graph Obraz (pozostaw puste, aby użyć automatycznie wygenerowanego obrazu)",
+    "openGraphImageShared": "Open-Graph Obraz (zastępuje automatycznie generowane obrazy Open-Graph w całej witrynie)",
     "openInNewTab": "Otwórz w nowej karcie",
     "optimizeContentForCards": "Zoptymalizuj zawartość dla kart",
     "orderedList": "Uporządkowana lista",

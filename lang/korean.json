@@ -231,6 +231,8 @@
     "noThemesFound": "테마 및 템플릿이 설치되어 있지 않습니다!",
     "ok": "Ok",
     "opacity": "불투명도",
+    "openGraphImage": "Open-Graph 이미지(자동 생성된 이미지를 사용하려면 비워 두세요)",
+    "openGraphImageShared": "Open-Graph 이미지(사이트 전체에서 자동으로 생성된 Open-Graph 이미지 재정의)",
     "openInNewTab": "새 탭에서 열기",
     "optimizeContentForCards": "카드용 콘텐츠 최적화",
     "orderedList": "정렬 목록",

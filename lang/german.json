@@ -231,6 +231,8 @@
     "noThemesFound": "Es sind keine Themes oder Templates installiert!",
     "ok": "Ok",
     "opacity": "Deckkraft",
+    "openGraphImage": "Open-Graph Bild (leer lassen, um das automatisch generierte Bild zu verwenden)",
+    "openGraphImageShared": "Open-Graph Bild (überschreibt die automatisch generierten Open-Graph Bilder auf der gesamten Website)",
     "openInNewTab": "In einem neuen Tab öffnen",
     "optimizeContentForCards": "Inhalte für Kartenlayout optimieren",
     "orderedList": "Nummerierte Liste",

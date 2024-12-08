@@ -231,6 +231,8 @@
     "noThemesFound": "Tēmas un veidnes nav instalētas!",
     "ok": "Ok",
     "opacity": "Necaurspīdīgums",
+    "openGraphImage": "Open-Graph Attēls (atstājiet tukšu, lai izmantotu automātiski ģenerētu attēlu)",
+    "openGraphImageShared": "Open-Graph Attēls (aizstāj automātiski ģenerētos Open-Graph attēlus visā vietnē)",
     "openInNewTab": "Atvērt jaunā cilnē",
     "optimizeContentForCards": "Satura optimizēšana kartēm",
     "orderedList": "Sakārtots saraksts",

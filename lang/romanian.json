@@ -231,6 +231,8 @@
     "noThemesFound": "Nu există teme și șabloane instalate!",
     "ok": "Ok",
     "opacity": "Opacitate",
+    "openGraphImage": "Open-Graph Imagine (lăsați gol pentru a utiliza imaginea generată automat)",
+    "openGraphImageShared": "Open-Graph Imagine (suprascrie imaginile generate automat Open-Graph la nivelul întregului site)",
     "openInNewTab": "Deschideți într-o filă nouă",
     "optimizeContentForCards": "Optimizarea conținutului pentru carduri",
     "orderedList": "Listă ordonată",

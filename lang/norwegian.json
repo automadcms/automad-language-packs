@@ -231,6 +231,8 @@
     "noThemesFound": "Det er ingen temaer og maler installert!",
     "ok": "Ok",
     "opacity": "Opasitet",
+    "openGraphImage": "Open-Graph Bilde (la det stå tomt for å bruke det automatisk genererte bildet)",
+    "openGraphImageShared": "Open-Graph Bilde (overstyrer automatisk genererte Open-Graph -bilder på hele nettstedet)",
     "openInNewTab": "Åpne i en ny fane",
     "optimizeContentForCards": "Optimalisere innhold for kort",
     "orderedList": "Ordnet liste",

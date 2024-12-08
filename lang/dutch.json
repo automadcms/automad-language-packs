@@ -231,6 +231,8 @@
     "noThemesFound": "Er zijn geen thema's en sjablonen geïnstalleerd!",
     "ok": "Ok",
     "opacity": "Opaciteit",
+    "openGraphImage": "Open-Graph Afbeelding (leeg laten om de automatisch gegenereerde afbeelding te gebruiken)",
+    "openGraphImageShared": "Open-Graph Afbeelding (overschrijft automatisch gegenereerde Open-Graph afbeeldingen over de hele site)",
     "openInNewTab": "Open in een nieuw tabblad",
     "optimizeContentForCards": "Inhoud optimaliseren voor kaarten",
     "orderedList": "Geordende lijst",
