@@ -212,6 +212,8 @@
     "mailBlockTitle": "Mail űrlap",
     "mailBlockTo": "Levelezési cím fogadása",
     "matchRowHeight": "A tartalom hozzáigazítása a sormagassághoz",
+    "metaDescription": "Meta leírás (opcionális)",
+    "metaTitle": "Meta cím (opcionális)",
     "missingPageTitleError": "A cím hiányzik!",
     "missingTargetPageError": "Kérjük, válasszon ki egy oldalt célként!",
     "missingUrlError": "Kérjük, adjon meg egy érvényes URL-t!",

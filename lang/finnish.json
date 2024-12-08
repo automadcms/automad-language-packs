@@ -212,6 +212,8 @@
     "mailBlockTitle": "Mail-lomake",
     "mailBlockTo": "Vastaanottava sähköpostiosoite",
     "matchRowHeight": "Sisällön sovittaminen rivin korkeuteen",
+    "metaDescription": "Metakuvaus (valinnainen)",
+    "metaTitle": "Metaotsikko (valinnainen)",
     "missingPageTitleError": "Otsikko puuttuu!",
     "missingTargetPageError": "Valitse sivu kohteeksi!",
     "missingUrlError": "Syötä kelvollinen URL-osoite!",

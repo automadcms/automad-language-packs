@@ -212,6 +212,8 @@
     "mailBlockTitle": "E-postskjema",
     "mailBlockTo": "Adresse for mottak av e-post",
     "matchRowHeight": "Tilpass innhold til radhøyde",
+    "metaDescription": "Metabeskrivelse (valgfritt)",
+    "metaTitle": "Metatittel (valgfritt)",
     "missingPageTitleError": "Tittel mangler!",
     "missingTargetPageError": "Velg en side som destinasjon!",
     "missingUrlError": "Vennligst skriv inn en gyldig URL!",

@@ -212,6 +212,8 @@
     "mailBlockTitle": "Modulo di posta elettronica",
     "mailBlockTo": "Indirizzo di ricezione della posta",
     "matchRowHeight": "Abbina il contenuto all'altezza della riga",
+    "metaDescription": "Meta descrizione (opzionale)",
+    "metaTitle": "Meta Titolo (opzionale)",
     "missingPageTitleError": "Manca il titolo!",
     "missingTargetPageError": "Seleziona una pagina come destinazione!",
     "missingUrlError": "Inserisci un URL valido!",

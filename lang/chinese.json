@@ -212,6 +212,8 @@
     "mailBlockTitle": "邮件表格",
     "mailBlockTo": "接收邮件地址",
     "matchRowHeight": "根据行高匹配内容",
+    "metaDescription": "元描述（可选）",
+    "metaTitle": "元标题（可选）",
     "missingPageTitleError": "标题丢失！",
     "missingTargetPageError": "请选择一个页面作为目的地！",
     "missingUrlError": "请输入有效的 URL！",

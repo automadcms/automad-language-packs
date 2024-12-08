@@ -212,6 +212,8 @@
     "mailBlockTitle": "Mailformular",
     "mailBlockTo": "Modtagelse af mailadresse",
     "matchRowHeight": "Match indhold til rækkehøjde",
+    "metaDescription": "Metabeskrivelse (valgfri)",
+    "metaTitle": "Metatitel (valgfrit)",
     "missingPageTitleError": "Titel mangler!",
     "missingTargetPageError": "Vælg venligst en side som destination!",
     "missingUrlError": "Indtast venligst en gyldig URL!",

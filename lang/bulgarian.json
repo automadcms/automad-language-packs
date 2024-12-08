@@ -212,6 +212,8 @@
     "mailBlockTitle": "Пощенски формуляр",
     "mailBlockTo": "Адрес за получаване на поща",
     "matchRowHeight": "Съобразяване на съдържанието с височината на реда",
+    "metaDescription": "Мета описание (по избор)",
+    "metaTitle": "Метазаглавие (по избор)",
     "missingPageTitleError": "Липсва заглавие!",
     "missingTargetPageError": "Моля, изберете страница като дестинация!",
     "missingUrlError": "Моля, въведете валиден URL адрес!",

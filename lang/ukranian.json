@@ -212,6 +212,8 @@
     "mailBlockTitle": "Поштова форма",
     "mailBlockTo": "Отримання поштової адреси",
     "matchRowHeight": "Узгодження вмісту з висотою рядка",
+    "metaDescription": "Мета-опис (необов'язково)",
+    "metaTitle": "Метазаголовок (необов'язково)",
     "missingPageTitleError": "Відсутній заголовок!",
     "missingTargetPageError": "Будь ласка, виберіть сторінку в якості місця призначення!",
     "missingUrlError": "Будь ласка, введіть дійсну URL-адресу!",

@@ -212,6 +212,8 @@
     "mailBlockTitle": "Formularz pocztowy",
     "mailBlockTo": "Adres odbioru poczty",
     "matchRowHeight": "Dopasuj zawartość do wysokości wiersza",
+    "metaDescription": "Meta Opis (opcjonalnie)",
+    "metaTitle": "Meta Title (opcjonalnie)",
     "missingPageTitleError": "Brak tytułu!",
     "missingTargetPageError": "Wybierz stronę jako miejsce docelowe!",
     "missingUrlError": "Wprowadź poprawny adres URL!",

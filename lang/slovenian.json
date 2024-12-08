@@ -212,6 +212,8 @@
     "mailBlockTitle": "Obrazec za pošto",
     "mailBlockTo": "Naslov za prejemanje pošte",
     "matchRowHeight": "Ujemanje vsebine z višino vrstice",
+    "metaDescription": "Metaopis (neobvezno)",
+    "metaTitle": "Meta naslov (neobvezno)",
     "missingPageTitleError": "Manjka naslov!",
     "missingTargetPageError": "Izberite stran kot ciljno destinacijo!",
     "missingUrlError": "Vnesite veljaven naslov URL!",

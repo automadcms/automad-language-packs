@@ -212,6 +212,8 @@
     "mailBlockTitle": "메일 양식",
     "mailBlockTo": "수신 메일 주소",
     "matchRowHeight": "콘텐츠를 행 높이에 맞추기",
+    "metaDescription": "메타 설명(선택 사항)",
+    "metaTitle": "메타 제목(선택 사항)",
     "missingPageTitleError": "제목이 누락되었습니다!",
     "missingTargetPageError": "대상 페이지를 선택하세요!",
     "missingUrlError": "유효한 URL을 입력하세요!",

@@ -212,6 +212,8 @@
     "mailBlockTitle": "Formulário de correio",
     "mailBlockTo": "Recebe o endereço de correio",
     "matchRowHeight": "Faz corresponder o conteúdo à altura da linha",
+    "metaDescription": "Meta Descrição (opcional)",
+    "metaTitle": "Meta-Título (opcional)",
     "missingPageTitleError": "Falta o título!",
     "missingTargetPageError": "Por favor, selecciona uma página como destino!",
     "missingUrlError": "Por favor, introduz um URL válido!",

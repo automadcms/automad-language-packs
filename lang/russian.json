@@ -212,6 +212,8 @@
     "mailBlockTitle": "Почтовая форма",
     "mailBlockTo": "Адрес получателя почты",
     "matchRowHeight": "Соответствие содержимого высоте строки",
+    "metaDescription": "Метаописание (необязательно)",
+    "metaTitle": "Метазаголовок (необязательно)",
     "missingPageTitleError": "Название отсутствует!",
     "missingTargetPageError": "Пожалуйста, выбери страницу для назначения!",
     "missingUrlError": "Пожалуйста, введите правильный URL!",

@@ -212,6 +212,8 @@
     "mailBlockTitle": "Pašto forma",
     "mailBlockTo": "Pašto gavimo adresas",
     "matchRowHeight": "Turinio atitikimas eilučių aukščiui",
+    "metaDescription": "Meta aprašymas (neprivaloma)",
+    "metaTitle": "Meta antraštė (neprivaloma)",
     "missingPageTitleError": "Trūksta antraštės!",
     "missingTargetPageError": "Pasirinkite puslapį kaip paskirties vietą!",
     "missingUrlError": "Įveskite galiojantį URL adresą!",

@@ -212,6 +212,8 @@
     "mailBlockTitle": "Poštový formulár",
     "mailBlockTo": "Adresa na prijímanie pošty",
     "matchRowHeight": "Prispôsobenie obsahu výške riadku",
+    "metaDescription": "Meta popis (voliteľný)",
+    "metaTitle": "Meta názov (voliteľný)",
     "missingPageTitleError": "Chýba nadpis!",
     "missingTargetPageError": "Vyberte si stránku ako cieľové miesto!",
     "missingUrlError": "Zadajte platnú adresu URL!",

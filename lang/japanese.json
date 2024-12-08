@@ -212,6 +212,8 @@
     "mailBlockTitle": "メールフォーム",
     "mailBlockTo": "メールアドレス",
     "matchRowHeight": "コンテンツを行の高さに合わせる",
+    "metaDescription": "メタディスクリプション（オプション）",
+    "metaTitle": "メタタイトル（オプション）",
     "missingPageTitleError": "タイトルがない！",
     "missingTargetPageError": "目的地としてページを選択する！",
     "missingUrlError": "有効なURLを入力する！",

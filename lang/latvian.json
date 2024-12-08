@@ -212,6 +212,8 @@
     "mailBlockTitle": "Pasta veidlapa",
     "mailBlockTo": "Pasta saņemšanas adrese",
     "matchRowHeight": "Satura saskaņošana ar rindas augstumu",
+    "metaDescription": "Meta apraksts (pēc izvēles)",
+    "metaTitle": "Meta virsraksts (pēc izvēles)",
     "missingPageTitleError": "Trūkst virsraksta!",
     "missingTargetPageError": "Lūdzu, izvēlieties lapu kā galamērķi!",
     "missingUrlError": "Lūdzu, ievadiet derīgu URL!",

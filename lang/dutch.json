@@ -212,6 +212,8 @@
     "mailBlockTitle": "Mailformulier",
     "mailBlockTo": "Mail adres ontvangen",
     "matchRowHeight": "Inhoud afstemmen op rijhoogte",
+    "metaDescription": "Meta Beschrijving (optioneel)",
+    "metaTitle": "Meta Titel (optioneel)",
     "missingPageTitleError": "Titel ontbreekt!",
     "missingTargetPageError": "Selecteer een pagina als bestemming!",
     "missingUrlError": "Voer een geldige URL in!",

@@ -212,6 +212,8 @@
     "mailBlockTitle": "Formular de e-mail",
     "mailBlockTo": "Adresă de primire a corespondenței",
     "matchRowHeight": "Potriviți conținutul cu înălțimea rândului",
+    "metaDescription": "Meta descriere (opțional)",
+    "metaTitle": "Titlu meta (opțional)",
     "missingPageTitleError": "Lipsește titlul!",
     "missingTargetPageError": "Vă rugăm să selectați o pagină ca destinație!",
     "missingUrlError": "Vă rugăm să introduceți un URL valid!",

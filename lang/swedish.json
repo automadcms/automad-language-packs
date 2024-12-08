@@ -212,6 +212,8 @@
     "mailBlockTitle": "E-postformulär",
     "mailBlockTo": "Adress för mottagande av post",
     "matchRowHeight": "Matcha innehåll till radhöjd",
+    "metaDescription": "Metabeskrivning (valfritt)",
+    "metaTitle": "Meta-titel (valfritt)",
     "missingPageTitleError": "Titel saknas!",
     "missingTargetPageError": "Välj en sida som destination!",
     "missingUrlError": "Ange en giltig URL!",

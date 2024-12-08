@@ -212,6 +212,8 @@
     "mailBlockTitle": "Mailivorm",
     "mailBlockTo": "Posti aadressi vastuvõtmine",
     "matchRowHeight": "Sisu sobitamine rea kõrgusega",
+    "metaDescription": "Meta kirjeldus (valikuline)",
+    "metaTitle": "Meta-pealkiri (valikuline)",
     "missingPageTitleError": "Pealkiri puudub!",
     "missingTargetPageError": "Palun valige leht sihtkohana!",
     "missingUrlError": "Palun sisestage kehtiv URL!",
