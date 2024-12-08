@@ -72,6 +72,8 @@
     "customHTMLHead": "Pasirinktinis HTML įterpiamas į elementą head",
     "customJSBodyEnd": "Pasirinktinis \"JavaScript\", kuris įterpiamas prieš pat uždaromąją kūno žymą",
     "customJSHead": "Pasirinktinis \"JavaScript\", kurį galima įterpti į elementą head",
+    "customOpenGraphImageColorBackground": "Pasirinktinė fono spalva Open-Graph paveikslėliams",
+    "customOpenGraphImageColorText": "Pasirinktinė teksto spalva Open-Graph paveikslėliams",
     "customization": "Šiame skirsnyje galima į svetainę pridėti pasirinktinių CSS ir \"JavaScript\". HTML laukelius galima naudoti išoriniams ištekliams, pavyzdžiui, šriftams ar \"JavaScript\" bibliotekoms, pridėti. Jei aktyvioji tema palaiko spalvų keitimą, čia taip pat galima apibrėžti spalvas.",
     "date": "Data",
     "debugDisabled": "Derinimas išjungtas",

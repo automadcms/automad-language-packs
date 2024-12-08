@@ -72,6 +72,8 @@
     "customHTMLHead": "Niestandardowy kod HTML do wstrzyknięcia do elementu head",
     "customJSBodyEnd": "Niestandardowy JavaScript do wstrzyknięcia tuż przed zamykającym tagiem body",
     "customJSHead": "Niestandardowy JavaScript do wstrzyknięcia do elementu head",
+    "customOpenGraphImageColorBackground": "Niestandardowy kolor tła dla obrazów Open-Graph ",
+    "customOpenGraphImageColorText": "Niestandardowy kolor tekstu dla obrazów Open-Graph ",
     "customization": "Ta sekcja pozwala na dodanie niestandardowego CSS i JavaScript do twojej strony. Pola HTML mogą być używane do dodawania zewnętrznych zasobów, takich jak czcionki lub biblioteki JavaScript. W przypadku, gdy aktywny motyw obsługuje nadpisywanie kolorów, kolory można zdefiniować również tutaj.",
     "date": "Data",
     "debugDisabled": "Debugowanie jest wyłączone",

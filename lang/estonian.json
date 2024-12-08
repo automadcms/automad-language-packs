@@ -72,6 +72,8 @@
     "customHTMLHead": "Kohandatud HTML, mida saab sisestada peaelemendi sisse",
     "customJSBodyEnd": "Kohandatud JavaScript, mida saab süstida vahetult enne sulgevat body tag'i.",
     "customJSHead": "Peaelemendi sisse süstitav kohandatud JavaScript.",
+    "customOpenGraphImageColorBackground": "Kohandatud taustavärv Open-Graph piltide jaoks.",
+    "customOpenGraphImageColorText": "Kohandatud tekstivärv Open-Graph piltide jaoks",
     "customization": "See jaotis võimaldab lisada oma veebilehele kohandatud CSS-i ja JavaScripti. HTML-välju saab kasutada väliste ressursside, näiteks fontide või JavaScript-raamatukogude lisamiseks. Kui aktiivne teema toetab värvide ületamist, saab siin ka värve määrata.",
     "date": "Kuupäev",
     "debugDisabled": "Kõrvaldamine on välja lülitatud",

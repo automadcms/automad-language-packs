@@ -72,6 +72,8 @@
     "customHTMLHead": "Head要素に注入するカスタムHTML",
     "customJSBodyEnd": "Bodyタグを閉じる直前にカスタムJavaScriptを挿入できる。",
     "customJSHead": "カスタムJavaScriptをhead要素に注入できる。",
+    "customOpenGraphImageColorBackground": "Open-Graph 画像の背景色をカスタマイズできる。",
+    "customOpenGraphImageColorText": "Open-Graph 画像のカスタムテキストカラー",
     "customization": "このセクションでは、カスタムCSSとJavaScriptをサイトに追加することができる。HTMLフィールドを使って、フォントやJavaScriptライブラリなどの外部リソースを追加できる。アクティブテーマが色のオーバーライドをサポートしている場合、色もここで定義できる。",
     "date": "日付",
     "debugDisabled": "デバッグは無効",

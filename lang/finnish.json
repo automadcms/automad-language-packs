@@ -72,6 +72,8 @@
     "customHTMLHead": "Head-elementtiin lisättävä mukautettu HTML",
     "customJSBodyEnd": "Mukautettu JavaScript, joka lisätään juuri ennen lopullista body-tagia.",
     "customJSHead": "Mukautettu JavaScript voidaan lisätä head-elementtiin.",
+    "customOpenGraphImageColorBackground": "Mukautettu taustaväri Open-Graph -kuville",
+    "customOpenGraphImageColorText": "Mukautettu tekstin väri Open-Graph kuvia varten",
     "customization": "Tässä osiossa voit lisätä sivustollesi mukautetun CSS:n ja JavaScriptin. HTML-kenttiä voidaan käyttää ulkoisten resurssien, kuten fonttien tai JavaScript-kirjastojen, lisäämiseen. Jos aktiivinen teema tukee värien ohituksia, myös värit voidaan määritellä täällä.",
     "date": "Päivämäärä",
     "debugDisabled": "Virheenkorjaus on poistettu käytöstä",

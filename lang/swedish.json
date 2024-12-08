@@ -72,6 +72,8 @@
     "customHTMLHead": "Anpassad HTML för att injiceras i head-elementet",
     "customJSBodyEnd": "Anpassad JavaScript som ska injiceras precis före den avslutande body-taggen",
     "customJSHead": "Anpassad JavaScript som ska injiceras i head-elementet",
+    "customOpenGraphImageColorBackground": "Anpassad bakgrundsfärg för Open-Graph bilder",
+    "customOpenGraphImageColorText": "Anpassad textfärg för Open-Graph bilder",
     "customization": "I det här avsnittet kan du lägga till anpassad CSS och JavaScript på din webbplats. HTML-fälten kan användas för att lägga till externa resurser som t.ex. teckensnitt eller JavaScript-bibliotek. Om det aktiva temat stöder färgöverskrivningar kan färgerna definieras här också.",
     "date": "Datum",
     "debugDisabled": "Felsökning är inaktiverad",

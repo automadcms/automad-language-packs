@@ -72,6 +72,8 @@
     "customHTMLHead": "Brugerdefineret HTML kan indsættes i head-elementet",
     "customJSBodyEnd": "Brugerdefineret JavaScript, der skal injiceres lige før det afsluttende body-tag",
     "customJSHead": "Brugerdefineret JavaScript, der kan injiceres i head-elementet",
+    "customOpenGraphImageColorBackground": "Brugerdefineret baggrundsfarve til billeder på Open-Graph ",
+    "customOpenGraphImageColorText": "Brugerdefineret tekstfarve til Open-Graph billeder",
     "customization": "Dette afsnit giver mulighed for at tilføje brugerdefineret CSS og JavaScript til dit websted. HTML-felterne kan bruges til at tilføje eksterne ressourcer som f.eks. skrifttyper eller JavaScript-biblioteker. Hvis det aktive tema understøtter farveskift, kan farverne også defineres her.",
     "date": "Dato",
     "debugDisabled": "Debugging er deaktiveret",

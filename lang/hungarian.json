@@ -72,6 +72,8 @@
     "customHTMLHead": "Egyéni HTML beilleszthető a fej elembe",
     "customJSBodyEnd": "Egyéni JavaScript beillesztése közvetlenül a záró body tag előtt.",
     "customJSHead": "Egyéni JavaScript beilleszthető a head elembe.",
+    "customOpenGraphImageColorBackground": "Egyéni háttérszín a Open-Graph képekhez",
+    "customOpenGraphImageColorText": "Egyéni szövegszín a Open-Graph képekhez",
     "customization": "Ez a rész lehetővé teszi egyéni CSS és JavaScript hozzáadását a webhelyhez. A HTML-mezők segítségével külső erőforrások, például betűtípusok vagy JavaScript-könyvtárak adhatók hozzá. Amennyiben az aktív téma támogatja a színfelülírásokat, a színeket is itt lehet meghatározni.",
     "date": "Dátum",
     "debugDisabled": "A hibakeresés le van tiltva",

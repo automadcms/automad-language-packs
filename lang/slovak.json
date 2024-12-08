@@ -72,6 +72,8 @@
     "customHTMLHead": "Vlastné HTML na vloženie do prvku head",
     "customJSBodyEnd": "Vlastný JavaScript, ktorý sa má vložiť tesne pred uzatvárací tag body",
     "customJSHead": "Vlastný JavaScript, ktorý sa má vstrekovať do prvku head",
+    "customOpenGraphImageColorBackground": "Vlastná farba pozadia pre obrázky Open-Graph ",
+    "customOpenGraphImageColorText": "Vlastná farba textu pre obrázky Open-Graph ",
     "customization": "Táto časť umožňuje pridávať na stránku vlastné CSS a JavaScript. Polia HTML možno použiť na pridanie externých zdrojov, ako sú písma alebo knižnice JavaScript. V prípade, že aktívna téma podporuje prepísanie farieb, možno tu definovať aj farby.",
     "date": "Dátum",
     "debugDisabled": "Ladenie je vypnuté",

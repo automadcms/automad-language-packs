@@ -72,6 +72,8 @@
     "customHTMLHead": "Benutzerdefiniertes HTML zum Einfügen in das Head-Element",
     "customJSBodyEnd": "Benutzerdefiniertes JavaScript, das direkt vor dem schließenden Body-Tag eingefügt wird",
     "customJSHead": "Benutzerdefiniertes JavaScript, das in das Head-Element eingefügt wird",
+    "customOpenGraphImageColorBackground": "Benutzerdefinierte Hintergrundfarbe für Open-Graph Bilder",
+    "customOpenGraphImageColorText": "Benutzerdefinierte Textfarbe für Open-Graph Bilder",
     "customization": "In diesem Bereich kannst du benutzerdefiniertes CSS und JavaScript zu deiner Website hinzufügen. Die HTML-Felder können verwendet werden, um externe Ressourcen wie Schriftarten oder JavaScript-Bibliotheken hinzuzufügen. Falls das aktive Thema Farbüberschreibungen unterstützt, können hier auch Farben definiert werden.",
     "date": "Datum",
     "debugDisabled": "Debugging ist deaktiviert",

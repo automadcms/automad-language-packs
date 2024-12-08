@@ -72,6 +72,8 @@
     "customHTMLHead": "HTML personnalisé à injecter dans l'élément head",
     "customJSBodyEnd": "JavaScript personnalisé à injecter juste avant la balise de fermeture du corps du texte.",
     "customJSHead": "JavaScript personnalisé à injecter dans l'élément head",
+    "customOpenGraphImageColorBackground": "Couleur d'arrière-plan personnalisée pour les images Open-Graph ",
+    "customOpenGraphImageColorText": "Couleur de texte personnalisée pour les images Open-Graph ",
     "customization": "Cette section permet d'ajouter des feuilles de style CSS et JavaScript personnalisées à ton site. Les champs HTML peuvent être utilisés pour ajouter des ressources externes telles que des polices ou des bibliothèques JavaScript. Si le thème actif prend en charge les surcharges de couleur, les couleurs peuvent également être définies ici.",
     "date": "Date",
     "debugDisabled": "Le débogage est désactivé",

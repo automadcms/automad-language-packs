@@ -72,6 +72,8 @@
     "customHTMLHead": "HTML po meri, ki se vnese v element head",
     "customJSBodyEnd": "Prilagojeni JavaScript, ki se vnese tik pred zaključno oznako body",
     "customJSHead": "JavaScript po meri, ki se vnese v element head",
+    "customOpenGraphImageColorBackground": "Barva ozadja po meri za slike Open-Graph ",
+    "customOpenGraphImageColorText": "Barva besedila po meri za slike Open-Graph ",
     "customization": "Ta razdelek omogoča dodajanje CSS in JavaScript po meri na spletno mesto. Polja HTML lahko uporabite za dodajanje zunanjih virov, kot so pisave ali knjižnice JavaScript. Če aktivna tema podpira spreminjanje barv, lahko tukaj določite tudi barve.",
     "date": "Datum",
     "debugDisabled": "Razhroščevanje je onemogočeno",

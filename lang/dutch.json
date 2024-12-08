@@ -72,6 +72,8 @@
     "customHTMLHead": "Aangepaste HTML om in het head-element te injecteren",
     "customJSBodyEnd": "Aangepaste JavaScript die vlak voor de afsluitende bodytag kan worden geïnjecteerd",
     "customJSHead": "Aangepaste JavaScript die in het head-element kan worden geïnjecteerd",
+    "customOpenGraphImageColorBackground": "Aangepaste achtergrondkleur voor Open-Graph afbeeldingen",
+    "customOpenGraphImageColorText": "Aangepaste tekstkleur voor Open-Graph afbeeldingen",
     "customization": "In dit gedeelte kun je aangepaste CSS en JavaScript aan je site toevoegen. De HTML-velden kunnen worden gebruikt om externe bronnen toe te voegen, zoals lettertypen of JavaScript-bibliotheken. Als het actieve thema kleuren ondersteunt, kunnen hier ook kleuren worden gedefinieerd.",
     "date": "Datum",
     "debugDisabled": "Debuggen is uitgeschakeld",

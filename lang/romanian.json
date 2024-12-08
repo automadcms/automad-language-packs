@@ -72,6 +72,8 @@
     "customHTMLHead": "HTML personalizat pentru a fi injectat în elementul head",
     "customJSBodyEnd": "JavaScript personalizat pentru a fi injectat chiar înainte de eticheta de închidere a corpului",
     "customJSHead": "JavaScript personalizat pentru a fi injectat în elementul head",
+    "customOpenGraphImageColorBackground": "Culoare de fundal personalizată pentru imaginile Open-Graph ",
+    "customOpenGraphImageColorText": "Culoare text personalizată pentru imaginile Open-Graph ",
     "customization": "Această secțiune permite adăugarea de CSS și JavaScript personalizate la site-ul dumneavoastră. Câmpurile HTML pot fi utilizate pentru a adăuga resurse externe, cum ar fi fonturi sau biblioteci JavaScript. În cazul în care tema activă acceptă suprascrieri de culoare, culorile pot fi definite și aici.",
     "date": "Data",
     "debugDisabled": "Depanarea este dezactivată",

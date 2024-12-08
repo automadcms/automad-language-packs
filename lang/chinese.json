@@ -72,6 +72,8 @@
     "customHTMLHead": "可在标题元素中注入自定义 HTML",
     "customJSBodyEnd": "在关闭正文标签前注入自定义 JavaScript",
     "customJSHead": "可在头部元素中注入自定义 JavaScript",
+    "customOpenGraphImageColorBackground": "自定义Open-Graph 图片的背景颜色",
+    "customOpenGraphImageColorText": "为Open-Graph 图像自定义文本颜色",
     "customization": "本部分可为网站添加自定义 CSS 和 JavaScript。HTML 字段可用于添加字体或 JavaScript 库等外部资源。如果活动主题支持颜色覆盖，也可以在此定义颜色。",
     "date": "日期",
     "debugDisabled": "禁止调试",

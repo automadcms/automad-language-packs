@@ -72,6 +72,8 @@
     "customHTMLHead": "Кастомний HTML для вставки в елемент head",
     "customJSBodyEnd": "Кастомний JavaScript, який вставляється безпосередньо перед закриваючим тегом body",
     "customJSHead": "Кастомний JavaScript для вставки в елемент head",
+    "customOpenGraphImageColorBackground": "Кастомний колір фону для зображень Open-Graph ",
+    "customOpenGraphImageColorText": "Кастомний колір тексту для зображень Open-Graph ",
     "customization": "Цей розділ дозволяє додавати на сайт власні CSS і JavaScript. Поля HTML можна використовувати для додавання зовнішніх ресурсів, таких як шрифти або бібліотеки JavaScript. Якщо активна тема підтримує перевизначення кольорів, кольори також можна визначити тут.",
     "date": "Дата",
     "debugDisabled": "Налагодження вимкнено",

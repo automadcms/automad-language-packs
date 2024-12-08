@@ -72,6 +72,8 @@
     "customHTMLHead": "HTML personalizado para inyectar en el elemento head",
     "customJSBodyEnd": "Se puede inyectar JavaScript personalizado justo antes de la etiqueta de cierre del cuerpo.",
     "customJSHead": "JavaScript personalizado para inyectar en el elemento head",
+    "customOpenGraphImageColorBackground": "Color de fondo personalizado para las imágenes de Open-Graph ",
+    "customOpenGraphImageColorText": "Color de texto personalizado para las imágenes de Open-Graph ",
     "customization": "Esta sección permite añadir CSS y JavaScript personalizados a tu sitio. Los campos HTML pueden utilizarse para añadir recursos externos como fuentes o bibliotecas JavaScript. En caso de que el tema activo admita anulaciones de color, los colores también se pueden definir aquí.",
     "date": "Fecha",
     "debugDisabled": "La depuración está desactivada",

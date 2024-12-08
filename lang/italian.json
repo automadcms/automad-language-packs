@@ -72,6 +72,8 @@
     "customHTMLHead": "HTML personalizzato da iniettare nell'elemento testa",
     "customJSBodyEnd": "JavaScript personalizzato da iniettare subito prima del tag body di chiusura",
     "customJSHead": "JavaScript personalizzato da iniettare nell'elemento testa",
+    "customOpenGraphImageColorBackground": "Colore di sfondo personalizzato per le immagini di Open-Graph ",
+    "customOpenGraphImageColorText": "Colore del testo personalizzato per le immagini di Open-Graph ",
     "customization": "Questa sezione consente di aggiungere CSS e JavaScript personalizzati al sito. I campi HTML possono essere utilizzati per aggiungere risorse esterne come font o librerie JavaScript. Nel caso in cui il tema attivo supporti le modifiche ai colori, questi possono essere definiti anche qui.",
     "date": "Data",
     "debugDisabled": "Il debug è disabilitato",

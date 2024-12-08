@@ -72,6 +72,8 @@
     "customHTMLHead": "Vlastní jazyk HTML, který lze vložit do prvku head.",
     "customJSBodyEnd": "Vlastní JavaScript, který se vloží těsně před zavírací značku body.",
     "customJSHead": "Vlastní JavaScript, který lze vložit do prvku head.",
+    "customOpenGraphImageColorBackground": "Vlastní barva pozadí pro obrázky Open-Graph ",
+    "customOpenGraphImageColorText": "Vlastní barva textu pro obrázky Open-Graph ",
     "customization": "Tato část umožňuje přidávat na web vlastní CSS a JavaScript. Pole HTML lze použít k přidání externích zdrojů, jako jsou písma nebo knihovny JavaScriptu. V případě, že aktivní téma podporuje přepisování barev, lze zde definovat i barvy.",
     "date": "Datum",
     "debugDisabled": "Ladění je zakázáno",
