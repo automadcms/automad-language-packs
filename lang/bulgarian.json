@@ -158,6 +158,7 @@
     "hue": "Hue",
     "i18nDisabled": "Езиковото маршрутизиране е изключено",
     "i18nEnabled": "Включено е маршрутизиране на езиците",
+    "imageCaption": "Надпис на изображението, който се показва в блоковете за галерия и слайдшоу",
     "imageDimensionsHoverTitle": "Запаметен размер на изображението (ширина х височина)",
     "imageSlideshowBlockAutoplay": "Autoplay режим",
     "imageSlideshowBlockBreakpoints": "Брой изображения в зависимост от размера на блока",

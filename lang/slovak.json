@@ -158,6 +158,7 @@
     "hue": "Odtieň",
     "i18nDisabled": "Vypnuté smerovanie jazykov",
     "i18nEnabled": "Zapnuté smerovanie jazykov",
+    "imageCaption": "Popisky obrázkov, ktoré sa zobrazujú v blokoch galérie a prezentácie",
     "imageDimensionsHoverTitle": "Uložená veľkosť obrázka (šírka x výška)",
     "imageSlideshowBlockAutoplay": "Autoplay režim",
     "imageSlideshowBlockBreakpoints": "Počet obrázkov na základe veľkosti bloku",

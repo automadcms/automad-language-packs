@@ -158,6 +158,7 @@
     "hue": "Hue",
     "i18nDisabled": "Kielireititys pois käytöstä",
     "i18nEnabled": "Kielireititys käytössä",
+    "imageCaption": "Kuvateksti, joka näytetään galleriassa ja diaesityslohkoissa.",
     "imageDimensionsHoverTitle": "Tallennetun kuvan koko (leveys x korkeus)",
     "imageSlideshowBlockAutoplay": "Autoplay mode",
     "imageSlideshowBlockBreakpoints": "Kuvien määrä lohkon koon mukaan",

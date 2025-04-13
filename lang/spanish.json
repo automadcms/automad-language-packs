@@ -158,6 +158,7 @@
     "hue": "Tono",
     "i18nDisabled": "Enrutamiento de idioma desactivado",
     "i18nEnabled": "Enrutamiento de idiomas habilitado",
+    "imageCaption": "Pie de foto que se muestra en los bloques de galería y presentación de diapositivas",
     "imageDimensionsHoverTitle": "Tamaño de imagen guardado (ancho x alto)",
     "imageSlideshowBlockAutoplay": "Autoplay modo",
     "imageSlideshowBlockBreakpoints": "Número de imágenes en función del tamaño del bloque",

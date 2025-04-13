@@ -158,6 +158,7 @@
     "hue": "색조",
     "i18nDisabled": "언어 라우팅 비활성화",
     "i18nEnabled": "언어 라우팅 사용",
+    "imageCaption": "갤러리 및 슬라이드쇼 블록에 표시되는 이미지 캡션",
     "imageDimensionsHoverTitle": "저장된 이미지 크기(너비 x 높이)",
     "imageSlideshowBlockAutoplay": "Autoplay 모드",
     "imageSlideshowBlockBreakpoints": "블록 크기에 따른 이미지 수",

@@ -158,6 +158,7 @@
     "hue": "Nuance",
     "i18nDisabled": "Sprog routing deaktiveret",
     "i18nEnabled": "Sprog-routing aktiveret",
+    "imageCaption": "Billedtekst, der vises i galleri- og diasshowblokke",
     "imageDimensionsHoverTitle": "Gemt billedstørrelse (bredde x højde)",
     "imageSlideshowBlockAutoplay": "Autoplay Tilstand",
     "imageSlideshowBlockBreakpoints": "Antal billeder baseret på blokstørrelse",

@@ -158,6 +158,7 @@
     "hue": "Hue",
     "i18nDisabled": "Kalbos nukreipimas išjungtas",
     "i18nEnabled": "Įjungtas kalbų maršrutizavimas",
+    "imageCaption": "Paveikslėlių antraštės, rodomos galerijos ir skaidrių rodymo blokuose",
     "imageDimensionsHoverTitle": "Išsaugotas vaizdo dydis (plotis x aukštis)",
     "imageSlideshowBlockAutoplay": "Autoplay režimas",
     "imageSlideshowBlockBreakpoints": "Paveikslėlių skaičius pagal bloko dydį",

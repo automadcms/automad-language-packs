@@ -158,6 +158,7 @@
     "hue": "Hue",
     "i18nDisabled": "Sprachrouting deaktiviert",
     "i18nEnabled": "Sprachrouting aktiviert",
+    "imageCaption": "Bildunterschrift, die in Galerie- und Diashow-Blöcken angezeigt wird",
     "imageDimensionsHoverTitle": "Gespeicherte Bildgröße (Breite x Höhe)",
     "imageSlideshowBlockAutoplay": "Autoplay Modus",
     "imageSlideshowBlockBreakpoints": "Anzahl der Bilder basierend auf der Blockgröße",

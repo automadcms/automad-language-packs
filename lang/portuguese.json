@@ -158,6 +158,7 @@
     "hue": "Matiz",
     "i18nDisabled": "Encaminhamento de idiomas desativado",
     "i18nEnabled": "Roteamento de idiomas habilitado",
+    "imageCaption": "Legenda da imagem que é apresentada na galeria e nos blocos de apresentação de diapositivos",
     "imageDimensionsHoverTitle": "Guarda o tamanho da imagem (largura x altura)",
     "imageSlideshowBlockAutoplay": "Autoplay modo",
     "imageSlideshowBlockBreakpoints": "Número de imagens com base no tamanho do bloco",

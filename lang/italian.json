@@ -158,6 +158,7 @@
     "hue": "Tonalità",
     "i18nDisabled": "Routing delle lingue disabilitato",
     "i18nEnabled": "Possibilità di attivare il routing delle lingue",
+    "imageCaption": "Didascalia dell'immagine che viene visualizzata nella galleria e nei blocchi di presentazione",
     "imageDimensionsHoverTitle": "Dimensione dell'immagine salvata (larghezza x altezza)",
     "imageSlideshowBlockAutoplay": "Autoplay modalità",
     "imageSlideshowBlockBreakpoints": "Numero di immagini in base alle dimensioni del blocco",

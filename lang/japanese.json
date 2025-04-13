@@ -158,6 +158,7 @@
     "hue": "色相",
     "i18nDisabled": "言語ルーティングは無効",
     "i18nEnabled": "言語ルーティングが可能",
+    "imageCaption": "ギャラリーやスライドショー・ブロックに表示される画像キャプション",
     "imageDimensionsHoverTitle": "保存画像サイズ（幅×高さ）",
     "imageSlideshowBlockAutoplay": "Autoplay モード",
     "imageSlideshowBlockBreakpoints": "ブロックサイズに応じた画像数",

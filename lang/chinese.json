@@ -158,6 +158,7 @@
     "hue": "色调",
     "i18nDisabled": "禁用语言路由",
     "i18nEnabled": "启用语言路由",
+    "imageCaption": "在图库和幻灯片块中显示图片说明",
     "imageDimensionsHoverTitle": "保存图像大小（宽 x 高）",
     "imageSlideshowBlockAutoplay": "Autoplay 模式",
     "imageSlideshowBlockBreakpoints": "根据区块大小设置图片数量",

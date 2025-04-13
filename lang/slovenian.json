@@ -158,6 +158,7 @@
     "hue": "Hue",
     "i18nDisabled": "Jezikovno usmerjanje je onemogočeno",
     "i18nEnabled": "Omogočeno je usmerjanje jezikov",
+    "imageCaption": "Podnapisi slik, ki so prikazani v blokih galerije in diaprojekcije",
     "imageDimensionsHoverTitle": "Shranjena velikost slike (širina x višina)",
     "imageSlideshowBlockAutoplay": "Autoplay način",
     "imageSlideshowBlockBreakpoints": "Število slik glede na velikost bloka",

@@ -158,6 +158,7 @@
     "hue": "Hue",
     "i18nDisabled": "Keele marsruutimine välja lülitatud",
     "i18nEnabled": "Keele marsruutimine on lubatud",
+    "imageCaption": "Pildiallkiri, mis kuvatakse galeriis ja slaidiesitluse plokkides",
     "imageDimensionsHoverTitle": "Salvestatud pildi suurus (laius x kõrgus)",
     "imageSlideshowBlockAutoplay": "Autoplay režiim",
     "imageSlideshowBlockBreakpoints": "Piltide arv põhineb ploki suurusel",

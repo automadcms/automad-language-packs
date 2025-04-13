@@ -158,6 +158,7 @@
     "hue": "Відтінок",
     "i18nDisabled": "Мовна маршрутизація вимкнена",
     "i18nEnabled": "Увімкнено мовну маршрутизацію",
+    "imageCaption": "Підписи до зображень, що відображаються в блоках галереї та слайд-шоу",
     "imageDimensionsHoverTitle": "Збережений розмір зображення (ширина х висота)",
     "imageSlideshowBlockAutoplay": "Autoplay режим",
     "imageSlideshowBlockBreakpoints": "Кількість зображень залежно від розміру блоку",

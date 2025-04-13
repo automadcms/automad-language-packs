@@ -158,6 +158,7 @@
     "hue": "Hue",
     "i18nDisabled": "Valodu maršrutēšana ir atspējota",
     "i18nEnabled": "Ieslēgta valodu maršrutēšana",
+    "imageCaption": "Attēlu virsraksti, kas tiek rādīti galerijas un slaidšovu blokos.",
     "imageDimensionsHoverTitle": "Saglabāts attēla izmērs (platums x augstums)",
     "imageSlideshowBlockAutoplay": "Autoplay režīms",
     "imageSlideshowBlockBreakpoints": "Attēlu skaits atkarībā no bloka lieluma",

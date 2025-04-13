@@ -158,6 +158,7 @@
     "hue": "Fargetone",
     "i18nDisabled": "Språkruting er deaktivert",
     "i18nEnabled": "Aktivering av språkruting",
+    "imageCaption": "Bildetekst som vises i galleri- og lysbildefremvisningsblokker",
     "imageDimensionsHoverTitle": "Lagret bildestørrelse (bredde x høyde)",
     "imageSlideshowBlockAutoplay": "Autoplay modus",
     "imageSlideshowBlockBreakpoints": "Antall bilder basert på blokkstørrelse",

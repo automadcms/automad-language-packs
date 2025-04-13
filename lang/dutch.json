@@ -158,6 +158,7 @@
     "hue": "Hue",
     "i18nDisabled": "Taalroutering uitgeschakeld",
     "i18nEnabled": "Taalroutering ingeschakeld",
+    "imageCaption": "Afbeeldingsonderschrift dat wordt weergegeven in galerie- en diavoorstellingsblokken",
     "imageDimensionsHoverTitle": "Opgeslagen afbeeldingsformaat (breedte x hoogte)",
     "imageSlideshowBlockAutoplay": "Autoplay modus",
     "imageSlideshowBlockBreakpoints": "Aantal afbeeldingen gebaseerd op blokgrootte",

@@ -158,6 +158,7 @@
     "hue": "Hue",
     "i18nDisabled": "Rutare lingvistică dezactivată",
     "i18nEnabled": "Se permite rutarea limbilor",
+    "imageCaption": "Legenda imaginilor care este afișată în blocurile galerie și slideshow",
     "imageDimensionsHoverTitle": "Dimensiunea imaginii salvate (lățime x înălțime)",
     "imageSlideshowBlockAutoplay": "Autoplay mod",
     "imageSlideshowBlockBreakpoints": "Numărul de imagini în funcție de dimensiunea blocului",

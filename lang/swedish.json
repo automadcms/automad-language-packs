@@ -158,6 +158,7 @@
     "hue": "Färgton",
     "i18nDisabled": "Inaktiverad språkrouting",
     "i18nEnabled": "Språkdirigering aktiverad",
+    "imageCaption": "Bildtext som visas i galleri- och bildspelsblock",
     "imageDimensionsHoverTitle": "Sparad bildstorlek (bredd x höjd)",
     "imageSlideshowBlockAutoplay": "Autoplay Läge",
     "imageSlideshowBlockBreakpoints": "Antal bilder baserat på blockstorlek",

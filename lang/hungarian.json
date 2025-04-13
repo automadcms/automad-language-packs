@@ -158,6 +158,7 @@
     "hue": "Hue",
     "i18nDisabled": "Nyelvi útválasztás letiltva",
     "i18nEnabled": "Nyelvi útválasztás engedélyezve",
+    "imageCaption": "Galéria és diavetítés blokkokban megjelenő képaláírás.",
     "imageDimensionsHoverTitle": "Mentett képméret (szélesség x magasság)",
     "imageSlideshowBlockAutoplay": "Autoplay mód",
     "imageSlideshowBlockBreakpoints": "A képek száma a blokkméret alapján",
