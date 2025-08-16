@@ -264,7 +264,6 @@
     "mailBlockTitle": "Mailivorm",
     "mailBlockTo": "Posti aadressi vastuvõtmine",
     "maintenanceModeText": "Server on hoolduse all. Kogu sisu jääb külastajatele tavapäraselt kättesaadavaks, kuid on praegu ainult lugemiseks. Haarake kiirelt kohvi ja niipea, kui hooldus on lõppenud, saate redigeerimist jätkata.",
-    "matchRowHeight": "Sisu sobitamine rea kõrgusega",
     "metaDescription": "Meta kirjeldus (valikuline)",
     "metaTitle": "Meta-pealkiri (valikuline)",
     "missingEmailAlertBody": "Praegu ei ole kasutajakontoga seotud e-posti aadressi. Selleks, et saada salasõna lähtestamise e-kirju või muid süsteemiteateid, saate lisada e-posti aadressi kasutaja seadetes.",
