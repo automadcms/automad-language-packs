@@ -125,6 +125,7 @@
     "date": "Dato",
     "debugDisabled": "Debugging er deaktiveret",
     "debugEnabled": "Fejlfinding er aktiveret",
+    "definedInServerEnv": "Denne indstilling er defineret i servermiljøet og kan ikke ændres.",
     "delete": "Sletning",
     "deletePage": "Slet side",
     "deleteSelection": "Slet valg",

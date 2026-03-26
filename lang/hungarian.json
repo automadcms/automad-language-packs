@@ -125,6 +125,7 @@
     "date": "Dátum",
     "debugDisabled": "A hibakeresés le van tiltva",
     "debugEnabled": "A hibakeresés engedélyezett",
+    "definedInServerEnv": "Ez a beállítás a szerverkörnyezetben kerül meghatározásra, és nem módosítható.",
     "delete": "Törlés",
     "deletePage": "Oldal törlése",
     "deleteSelection": "Kiválasztás törlése",

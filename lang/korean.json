@@ -125,6 +125,7 @@
     "date": "날짜",
     "debugDisabled": "디버깅이 비활성화됨",
     "debugEnabled": "디버깅이 활성화됨",
+    "definedInServerEnv": "이 설정은 서버 환경에서 정의되며 변경할 수 없습니다.",
     "delete": "삭제",
     "deletePage": "페이지 삭제",
     "deleteSelection": "선택 항목 삭제",

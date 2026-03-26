@@ -125,6 +125,7 @@
     "date": "Datums",
     "debugDisabled": "Dzesēšanas atkļūdošana ir atspējota",
     "debugEnabled": "Ir iespējota atkļūdošana",
+    "definedInServerEnv": "Šie iestatījumi ir definēti servera vidē, un tos nevar mainīt.",
     "delete": "Dzēst",
     "deletePage": "Dzēst lapu",
     "deleteSelection": "Izdzēst atlasi",

@@ -125,6 +125,7 @@
     "date": "日期",
     "debugDisabled": "禁止调试",
     "debugEnabled": "启用调试",
+    "definedInServerEnv": "该设置在服务器环境中定义，无法更改",
     "delete": "删除",
     "deletePage": "删除页面",
     "deleteSelection": "删除选择",

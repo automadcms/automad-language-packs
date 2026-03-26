@@ -125,6 +125,7 @@
     "date": "Data",
     "debugDisabled": "Depanarea este dezactivată",
     "debugEnabled": "Depanarea este activată",
+    "definedInServerEnv": "Această setare este definită în mediul serverului și nu poate fi modificată",
     "delete": "Ștergeți",
     "deletePage": "Ștergeți pagina",
     "deleteSelection": "Ștergeți selecția",

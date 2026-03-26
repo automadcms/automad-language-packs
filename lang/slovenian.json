@@ -125,6 +125,7 @@
     "date": "Datum",
     "debugDisabled": "Razhroščevanje je onemogočeno",
     "debugEnabled": "Omogočeno je odpravljanje napak",
+    "definedInServerEnv": "Ta nastavitev je določena v okolju strežnika in je ni mogoče spremeniti",
     "delete": "Brisanje",
     "deletePage": "Brisanje strani",
     "deleteSelection": "Brisanje izbire",

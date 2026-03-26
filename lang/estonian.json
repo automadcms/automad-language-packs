@@ -125,6 +125,7 @@
     "date": "Kuupäev",
     "debugDisabled": "Kõrvaldamine on välja lülitatud",
     "debugEnabled": "Vigade kõrvaldamine on lubatud",
+    "definedInServerEnv": "See seadistus on määratletud serveri keskkonnas ja seda ei saa muuta.",
     "delete": "Kustuta",
     "deletePage": "Lehekülje kustutamine",
     "deleteSelection": "Valiku kustutamine",

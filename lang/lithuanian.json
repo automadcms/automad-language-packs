@@ -125,6 +125,7 @@
     "date": "Data",
     "debugDisabled": "Derinimas išjungtas",
     "debugEnabled": "Įjungtas derinimas",
+    "definedInServerEnv": "Šis nustatymas apibrėžiamas serverio aplinkoje ir negali būti keičiamas",
     "delete": "Ištrinti",
     "deletePage": "Ištrinti puslapį",
     "deleteSelection": "Ištrinti pasirinkimą",

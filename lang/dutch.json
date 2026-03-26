@@ -125,6 +125,7 @@
     "date": "Datum",
     "debugDisabled": "Debuggen is uitgeschakeld",
     "debugEnabled": "Debuggen is ingeschakeld",
+    "definedInServerEnv": "Deze instelling is gedefinieerd in de serveromgeving en kan niet worden gewijzigd.",
     "delete": "Verwijderen",
     "deletePage": "Pagina verwijderen",
     "deleteSelection": "Selectie verwijderen",

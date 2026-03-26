@@ -125,6 +125,7 @@
     "date": "Data",
     "debugDisabled": "Il debug è disabilitato",
     "debugEnabled": "Il debug è abilitato",
+    "definedInServerEnv": "Questa impostazione è definita nell'ambiente del server e non può essere modificata.",
     "delete": "Elimina",
     "deletePage": "Elimina la pagina",
     "deleteSelection": "Elimina la selezione",

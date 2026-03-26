@@ -125,6 +125,7 @@
     "date": "Päivämäärä",
     "debugDisabled": "Virheenkorjaus on poistettu käytöstä",
     "debugEnabled": "Virheenkorjaus on käytössä",
+    "definedInServerEnv": "Tämä asetus määritellään palvelinympäristössä, eikä sitä voi muuttaa.",
     "delete": "Poista",
     "deletePage": "Poista sivu",
     "deleteSelection": "Poista valinta",

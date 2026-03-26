@@ -125,6 +125,7 @@
     "date": "Datum",
     "debugDisabled": "Felsökning är inaktiverad",
     "debugEnabled": "Felsökning är aktiverad",
+    "definedInServerEnv": "Den här inställningen definieras i servermiljön och kan inte ändras",
     "delete": "Ta bort",
     "deletePage": "Ta bort sida",
     "deleteSelection": "Ta bort val",

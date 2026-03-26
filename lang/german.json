@@ -125,6 +125,7 @@
     "date": "Datum",
     "debugDisabled": "Debugging ist deaktiviert",
     "debugEnabled": "Debugging ist aktiviert",
+    "definedInServerEnv": "Diese Einstellung wird in der Serverumgebung festgelegt und kann nicht geändert werden.",
     "delete": "Löschen",
     "deletePage": "Seite löschen",
     "deleteSelection": "Auswahl löschen",

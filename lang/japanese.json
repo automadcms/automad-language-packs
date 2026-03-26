@@ -125,6 +125,7 @@
     "date": "日付",
     "debugDisabled": "デバッグは無効",
     "debugEnabled": "デバッグが可能",
+    "definedInServerEnv": "この設定はサーバー環境で定義され、変更することはできない。",
     "delete": "削除する",
     "deletePage": "ページを削除する",
     "deleteSelection": "選択を削除する",

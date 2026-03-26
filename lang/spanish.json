@@ -125,6 +125,7 @@
     "date": "Fecha",
     "debugDisabled": "La depuración está desactivada",
     "debugEnabled": "La depuración está activada",
+    "definedInServerEnv": "Esta configuración se define en el entorno del servidor y no puede modificarse.",
     "delete": "Borrar",
     "deletePage": "Eliminar página",
     "deleteSelection": "Borrar selección",

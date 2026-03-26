@@ -125,6 +125,7 @@
     "date": "Dátum",
     "debugDisabled": "Ladenie je vypnuté",
     "debugEnabled": "Ladenie je povolené",
+    "definedInServerEnv": "Toto nastavenie je definované v prostredí servera a nie je možné ho zmeniť",
     "delete": "Odstrániť",
     "deletePage": "Odstránenie stránky",
     "deleteSelection": "Odstránenie výberu",

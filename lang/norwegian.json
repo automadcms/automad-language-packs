@@ -125,6 +125,7 @@
     "date": "Dato",
     "debugDisabled": "Feilsøking er deaktivert",
     "debugEnabled": "Feilsøking er aktivert",
+    "definedInServerEnv": "Denne innstillingen er definert i servermiljøet og kan ikke endres.",
     "delete": "Slette",
     "deletePage": "Slett side",
     "deleteSelection": "Slett valg",
