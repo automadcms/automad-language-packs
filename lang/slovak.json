@@ -407,6 +407,7 @@
     "rectangleTool": "Obdĺžnik",
     "redirectPage": "Presmerovanie stránky na inú adresu URL",
     "redoTitle": "Zopakovať poslednú operáciu",
+    "reload": "Načítanie stránky",
     "repeatPassword": "Opakovanie hesla",
     "repositoriesInfo": "Okrem verejnej zbierky si môžete nainštalovať vlastné balíky tém z vlastných repozitárov GitHub alebo GitLab - verejných alebo súkromných. Ak chcete nainštalovať balík, musíte nakonfigurovať overovanie pridaním osobného prístupového tokenu s prístupom na čítanie k rozhraniu API platformy - a to aj v prípade verejných repozitárov.",
     "repositoriesSwitcherTitle": "Súkromné úložiská",

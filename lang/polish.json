@@ -407,6 +407,7 @@
     "rectangleTool": "Prostokąt",
     "redirectPage": "Przekieruj stronę na inny adres URL",
     "redoTitle": "Ponów ostatnią operację",
+    "reload": "Przeładuj",
     "repeatPassword": "Powtórz hasło",
     "repositoriesInfo": "Oprócz publicznej kolekcji, możesz zainstalować niestandardowe pakiety motywów z własnych repozytoriów GitHub lub GitLab - publicznych lub prywatnych. Aby zainstalować pakiet, musisz skonfigurować uwierzytelnianie, dodając osobisty token dostępu z dostępem do odczytu API platformy - nawet w przypadku repozytoriów publicznych.",
     "repositoriesSwitcherTitle": "Prywatne repozytoria",

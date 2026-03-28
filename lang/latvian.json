@@ -407,6 +407,7 @@
     "rectangleTool": "Taisnstūris",
     "redirectPage": "Pārvirzīt lapu uz citu URL",
     "redoTitle": "Atkārtot pēdējo darbību",
+    "reload": "Pārlādēt",
     "repeatPassword": "Atkārtojiet paroli",
     "repositoriesInfo": "Papildus publiskajai kolekcijai varat instalēt pielāgotas tēmu paketes no savām GitHub vai GitLab krātuvēm - publiskām vai privātām. Lai instalētu pakotni, jums būs jākonfigurē autentifikācija, pievienojot personīgo piekļuves marķieri ar lasīšanas piekļuvi platformas API - pat publiskām krātuvēm.",
     "repositoriesSwitcherTitle": "Privātās krātuves",

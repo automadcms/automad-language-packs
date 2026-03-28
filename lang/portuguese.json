@@ -407,6 +407,7 @@
     "rectangleTool": "Retângulo",
     "redirectPage": "Redirecciona a página para outro URL",
     "redoTitle": "Repete a última operação",
+    "reload": "Recarregar",
     "repeatPassword": "Repete a palavra-passe",
     "repositoriesInfo": "Para além da coleção pública, podes instalar pacotes de temas personalizados a partir dos teus próprios repositórios GitHub ou GitLab - públicos ou privados. Para instalar um pacote, tens de configurar a autenticação, adicionando um token de acesso pessoal com acesso de leitura à API da plataforma - mesmo para repositórios públicos.",
     "repositoriesSwitcherTitle": "Repositórios privados",
