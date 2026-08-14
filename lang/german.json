@@ -186,7 +186,7 @@
     "edit": "Bearbeiten",
     "editFileInfo": "Datei-Infos bearbeiten",
     "editImage": "Bild bearbeiten",
-    "editLayoutSectionStyles": "Stile des Layout-Abschnitts bearbeiten",
+    "editLayoutSectionStyles": "Stile und Einstellungen",
     "editorPlaceholder": "Hier klicken, um Inhalte hinzuzufügen",
     "editorSmallDisplayAlert": "Das Display ist zu klein für die Verwendung des Blockeditors. Bitte wechsle für die Bearbeitung auf ein größeres Gerät.",
     "ellipse": "Ellipse",
@@ -714,4 +714,3 @@
     "zoomInTitle": "Vergrößern",
     "zoomOutTitle": "Verkleinern"
 }
-
