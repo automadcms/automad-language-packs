@@ -485,6 +485,7 @@
     "repeatPassword": "Herhaal het wachtwoord",
     "repositoriesInfo": "Naast de openbare collectie kun je ook aangepaste themapakketten installeren vanuit je eigen GitHub of GitLab repositories - openbaar of privé. Om een pakket te installeren, moet je authenticatie configureren door een persoonlijk toegangstoken toe te voegen met leestoegang tot de API van het platform - zelfs voor openbare repositories.",
     "repositoriesSwitcherTitle": "Privé opslagplaatsen",
+    "repositoryAccessError": "Je hebt geen toegang tot de repository. Controleer of je GitHub- of GitLab-authenticatietoken nog geldig is. Het geïnstalleerde pakket is niet gewijzigd.",
     "repositoryAdd": "Pakket toevoegen",
     "repositoryAddButton": "Installeer",
     "repositoryAddInfo": "Om een openbaar of privé archief toe te voegen, moet je ervoor zorgen dat je een geldig toegangstoken hebt voor het platform waar het archief wordt gehost.",

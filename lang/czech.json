@@ -485,6 +485,7 @@
     "repeatPassword": "Opakování hesla",
     "repositoriesInfo": "Kromě veřejné kolekce můžete instalovat vlastní balíčky motivů z vlastních repozitářů GitHub nebo GitLab - veřejných nebo soukromých. Chcete-li nainstalovat balíček, musíte nakonfigurovat ověřování přidáním osobního přístupového tokenu s přístupem ke čtení rozhraní API platformy - a to i v případě veřejných repozitářů.",
     "repositoriesSwitcherTitle": "Soukromá úložiště",
+    "repositoryAccessError": "Nelze získat přístup k úložišti. Zkontrolujte, zda je váš autentizační token pro GitHub nebo GitLab stále platný. Nainstalovaný balíček nebyl změněn.",
     "repositoryAdd": "Přidání balíčku",
     "repositoryAddButton": "Instalace stránky",
     "repositoryAddInfo": "Chcete-li přidat veřejné nebo soukromé úložiště, ujistěte se, že jste zadali platný přístupový token pro platformu, kde je úložiště umístěno.",

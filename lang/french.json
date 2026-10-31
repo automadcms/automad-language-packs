@@ -485,6 +485,7 @@
     "repeatPassword": "Répéter le mot de passe",
     "repositoriesInfo": "En plus de la collection publique, tu peux installer des paquets de thèmes personnalisés à partir de tes propres dépôts GitHub ou GitLab - publics ou privés. Pour installer un paquet, tu devras configurer l'authentification en ajoutant un jeton d'accès personnel avec un accès en lecture à l'API de la plateforme - même pour les dépôts publics.",
     "repositoriesSwitcherTitle": "Dépôts privés",
+    "repositoryAccessError": "Impossible d'accéder au dépôt. Vérifie que ton jeton d'authentification GitHub ou GitLab est toujours valide. Le paquet installé n'a pas été modifié.",
     "repositoryAdd": "Ajouter un paquet",
     "repositoryAddButton": "Installer",
     "repositoryAddInfo": "Pour ajouter un dépôt public ou privé, assure-toi d'avoir fourni un jeton d'accès valide pour la plateforme où le dépôt est hébergé.",

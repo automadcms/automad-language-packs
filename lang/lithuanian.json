@@ -485,6 +485,7 @@
     "repeatPassword": "Pakartokite slaptažodį",
     "repositoriesInfo": "Be viešosios kolekcijos, galite įdiegti pasirinktinius temų paketus iš savo \"GitHub\" arba \"GitLab\" saugyklų - viešų arba privačių. Norėdami įdiegti paketą, turėsite sukonfigūruoti autentifikavimą, pridėdami asmeninį prieigos žetoną su skaitymo prieiga prie platformos API - net ir viešose saugyklose.",
     "repositoriesSwitcherTitle": "Privačios saugyklos",
+    "repositoryAccessError": "Nepavyksta prisijungti prie saugyklos. Patikrinkite, ar jūsų „GitHub“ arba „GitLab“ autentifikavimo žetonas vis dar galioja. Įdiegtas paketas nebuvo pakeistas.",
     "repositoryAdd": "Pridėti paketą",
     "repositoryAddButton": "Įdiegti",
     "repositoryAddInfo": "Norėdami pridėti viešą arba privačią saugyklą, įsitikinkite, kad pateikėte galiojantį platformos, kurioje saugykla talpinama, prieigos simbolį.",

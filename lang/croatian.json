@@ -485,6 +485,7 @@
     "repeatPassword": "Ponovi lozinku",
     "repositoriesInfo": "Osim javne zbirke, možete instalirati prilagođene pakete tema sa svojih GitHub ili GitLab repozitorija — javnih ili privatnih. Za instalaciju paketa morat ćete konfigurirati autentifikaciju dodavanjem osobnog pristupnog tokena s pristupom za čitanje API-ju platforme — čak i za javne repozitorije.",
     "repositoriesSwitcherTitle": "Privatni repozitoriji",
+    "repositoryAccessError": "Repozitoriju se ne može pristupiti. Provjerite je li vaš GitHub ili GitLab token za autentifikaciju i dalje valjan. Instalirani paket nije promijenjen.",
     "repositoryAdd": "Dodaj paket",
     "repositoryAddButton": "Instaliraj",
     "repositoryAddInfo": "Kako biste dodali javni ili privatni repozitorij, molimo provjerite jeste li naveli valjani pristupni token za platformu na kojoj je repozitorij hostiran.",

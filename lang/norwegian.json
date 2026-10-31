@@ -485,6 +485,7 @@
     "repeatPassword": "Gjenta passordet",
     "repositoriesInfo": "I tillegg til den offentlige samlingen kan du installere tilpassede temapakker fra dine egne GitHub- eller GitLab-arkiver - offentlige eller private. For å installere en pakke må du konfigurere autentisering ved å legge til et personlig tilgangstoken med lesetilgang til plattformens API - selv for offentlige repositorier.",
     "repositoriesSwitcherTitle": "Private depoter",
+    "repositoryAccessError": "Det er ikke mulig å få tilgang til arkivet. Kontroller at autentiseringstokenet ditt for GitHub eller GitLab fortsatt er gyldig. Den installerte pakken har ikke blitt endret.",
     "repositoryAdd": "Legg til pakke",
     "repositoryAddButton": "Installere",
     "repositoryAddInfo": "For å legge til et offentlig eller privat arkiv, må du sørge for at du har oppgitt et gyldig tilgangstoken for plattformen der arkivet er lagret.",

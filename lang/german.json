@@ -485,6 +485,7 @@
     "repeatPassword": "Wiederhole das Passwort",
     "repositoriesInfo": "Neben der öffentlichen Sammlung kannst du auch benutzerdefinierte Themenpakete aus deinen eigenen GitHub- oder GitLab-Repositories installieren - öffentlich oder privat. Um ein Paket zu installieren, musst du die Authentifizierung konfigurieren, indem du ein persönliches Zugangstoken mit Lesezugriff auf die API der Plattform hinzufügst - auch für öffentliche Repositories.",
     "repositoriesSwitcherTitle": "Private Repositories",
+    "repositoryAccessError": "Auf das Repository kann nicht zugegriffen werden. Bitte überprüfe, ob dein GitHub- oder GitLab-Authentifizierungstoken noch gültig ist. Das installierte Paket wurde nicht geändert.",
     "repositoryAdd": "Paket hinzufügen",
     "repositoryAddButton": "Installieren",
     "repositoryAddInfo": "Um ein öffentliches oder privates Repository hinzuzufügen, musst du sicherstellen, dass du ein gültiges Zugangstoken für die Plattform, auf der das Repository gehostet wird, angegeben hast.",

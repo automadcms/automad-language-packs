@@ -485,6 +485,7 @@
     "repeatPassword": "Powtórz hasło",
     "repositoriesInfo": "Oprócz publicznej kolekcji, możesz zainstalować niestandardowe pakiety motywów z własnych repozytoriów GitHub lub GitLab - publicznych lub prywatnych. Aby zainstalować pakiet, musisz skonfigurować uwierzytelnianie, dodając osobisty token dostępu z dostępem do odczytu API platformy - nawet w przypadku repozytoriów publicznych.",
     "repositoriesSwitcherTitle": "Prywatne repozytoria",
+    "repositoryAccessError": "Nie można uzyskać dostępu do repozytorium. Sprawdź, czy twój token uwierzytelniający GitHub lub GitLab jest nadal ważny. Zainstalowany pakiet nie został zmieniony.",
     "repositoryAdd": "Dodaj pakiet",
     "repositoryAddButton": "Zainstaluj",
     "repositoryAddInfo": "Aby dodać publiczne lub prywatne repozytorium, upewnij się, że podałeś prawidłowy token dostępu dla platformy, na której hostowane jest repozytorium.",

@@ -485,6 +485,7 @@
     "repeatPassword": "Ponovite geslo",
     "repositoriesInfo": "Poleg javne zbirke lahko namestite pakete tem po meri iz lastnih skladišč GitHub ali GitLab - javnih ali zasebnih. Če želite namestiti paket, morate konfigurirati avtentikacijo z dodajanjem osebnega žetona za dostop z dostopom za branje do API-ja platforme - tudi za javne skladišča.",
     "repositoriesSwitcherTitle": "Zasebna skladišča",
+    "repositoryAccessError": "Dostop do repozitorija ni mogoč. Preverite, ali je vaš avtentifikacijski žeton za GitHub ali GitLab še vedno veljaven. Nameščen paket ni bil spremenjen.",
     "repositoryAdd": "Dodajanje paketa",
     "repositoryAddButton": "Namestitev",
     "repositoryAddInfo": "Če želite dodati javno ali zasebno shrambo, se prepričajte, da ste zagotovili veljaven žeton za dostop do platforme, na kateri je shramba nameščena.",

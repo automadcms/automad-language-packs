@@ -485,6 +485,7 @@
     "repeatPassword": "重复密码",
     "repositoriesInfo": "除了公共程序集，你还可以从自己的 GitHub 或 GitLab 仓库（公共或私有）安装自定义主题包。要安装软件包，你需要通过添加具有平台 API 读取权限的个人访问令牌来配置身份验证，即使是公共软件源也不例外。",
     "repositoriesSwitcherTitle": "私人资源库",
+    "repositoryAccessError": "无法访问代码库。请检查您的 GitHub 或 GitLab 认证令牌是否仍然有效。已安装的软件包未被修改。",
     "repositoryAdd": "添加软件包",
     "repositoryAddButton": "安装",
     "repositoryAddInfo": "要添加公共或私有版本库，请确保已为版本库所在平台提供了有效的访问令牌。",

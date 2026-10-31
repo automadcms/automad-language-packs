@@ -485,6 +485,7 @@
     "repeatPassword": "Opakovanie hesla",
     "repositoriesInfo": "Okrem verejnej zbierky si môžete nainštalovať vlastné balíky tém z vlastných repozitárov GitHub alebo GitLab - verejných alebo súkromných. Ak chcete nainštalovať balík, musíte nakonfigurovať overovanie pridaním osobného prístupového tokenu s prístupom na čítanie k rozhraniu API platformy - a to aj v prípade verejných repozitárov.",
     "repositoriesSwitcherTitle": "Súkromné úložiská",
+    "repositoryAccessError": "Nie je možné získať prístup k úložišťu. Skontrolujte, či je váš autentifikačný token pre GitHub alebo GitLab stále platný. Inštalovaný balík nebol zmenený.",
     "repositoryAdd": "Pridať balík",
     "repositoryAddButton": "Inštalácia stránky",
     "repositoryAddInfo": "Ak chcete pridať verejné alebo súkromné úložisko, uistite sa, že ste poskytli platný prístupový token pre platformu, na ktorej je úložisko umiestnené.",

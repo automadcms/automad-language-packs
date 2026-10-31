@@ -485,6 +485,7 @@
     "repeatPassword": "Repetați parola",
     "repositoriesInfo": "În plus față de colecția publică, puteți instala pachete de teme personalizate din propriile depozite GitHub sau GitLab - publice sau private. Pentru a instala un pachet, va trebui să configurați autentificarea prin adăugarea unui token de acces personal cu acces de citire la API-ul platformei - chiar și pentru depozitele publice.",
     "repositoriesSwitcherTitle": "Depozite private",
+    "repositoryAccessError": "Nu se poate accesa depozitul. Vă rugăm să verificați dacă tokenul dvs. de autentificare GitHub sau GitLab este încă valabil. Pachetul instalat nu a fost modificat.",
     "repositoryAdd": "Adăugați pachet",
     "repositoryAddButton": "Instalare",
     "repositoryAddInfo": "Pentru a adăuga un depozit public sau privat, asigurați-vă că ați furnizat un token de acces valid pentru platforma pe care este găzduit depozitul.",

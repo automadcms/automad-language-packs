@@ -485,6 +485,7 @@
     "repeatPassword": "Repite la contraseña",
     "repositoriesInfo": "Además de la colección pública, puedes instalar paquetes de temas personalizados desde tus propios repositorios de GitHub o GitLab, públicos o privados. Para instalar un paquete, tendrás que configurar la autenticación añadiendo un token de acceso personal con acceso de lectura a la API de la plataforma, incluso para los repositorios públicos.",
     "repositoriesSwitcherTitle": "Repositorios privados",
+    "repositoryAccessError": "No se puede acceder al repositorio. Comprueba que tu token de autenticación de GitHub o GitLab siga siendo válido. El paquete instalado no ha sufrido cambios.",
     "repositoryAdd": "Añadir paquete",
     "repositoryAddButton": "Instala",
     "repositoryAddInfo": "Para añadir un repositorio público o privado, asegúrate de que has proporcionado un token de acceso válido para la plataforma en la que está alojado el repositorio.",

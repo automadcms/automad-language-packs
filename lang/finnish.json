@@ -485,6 +485,7 @@
     "repeatPassword": "Toista salasana",
     "repositoriesInfo": "Julkisen kokoelman lisäksi voit asentaa mukautettuja teemapaketteja omista GitHub- tai GitLab-arkistoista - julkisista tai yksityisistä. Paketin asentamiseksi sinun on määritettävä todennus lisäämällä henkilökohtainen käyttöoikeustunniste, jolla on lukuoikeus alustan API:han - myös julkisten arkistojen osalta.",
     "repositoriesSwitcherTitle": "Yksityiset arkistot",
+    "repositoryAccessError": "Tietovarastoon ei pääse. Tarkista, että GitHub- tai GitLab-todentamistunnuksesi on edelleen voimassa. Asennettua pakettia ei ole muutettu.",
     "repositoryAdd": "Lisää paketti",
     "repositoryAddButton": "Asenna",
     "repositoryAddInfo": "Jotta voit lisätä julkisen tai yksityisen arkiston, varmista, että olet antanut voimassa olevan käyttöoikeustunnuksen alustalle, jolla arkisto sijaitsee.",

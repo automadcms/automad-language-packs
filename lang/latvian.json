@@ -485,6 +485,7 @@
     "repeatPassword": "Atkārtojiet paroli",
     "repositoriesInfo": "Papildus publiskajai kolekcijai varat instalēt pielāgotas tēmu paketes no savām GitHub vai GitLab krātuvēm - publiskām vai privātām. Lai instalētu pakotni, jums būs jākonfigurē autentifikācija, pievienojot personīgo piekļuves marķieri ar lasīšanas piekļuvi platformas API - pat publiskām krātuvēm.",
     "repositoriesSwitcherTitle": "Privātās krātuves",
+    "repositoryAccessError": "Nav iespējams piekļūt repozitorijam. Lūdzu, pārbaudiet, vai jūsu GitHub vai GitLab autentifikācijas žetons joprojām ir derīgs. Uzstādītā pakete nav mainīta.",
     "repositoryAdd": "Pievienot paketi",
     "repositoryAddButton": "Uzstādīt",
     "repositoryAddInfo": "Lai pievienotu publisku vai privātu repozitoriju, pārliecinieties, ka esat norādījis derīgu piekļuves žetonu platformai, kurā repozitorijs tiek izvietots.",

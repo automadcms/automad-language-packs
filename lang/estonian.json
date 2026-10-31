@@ -485,6 +485,7 @@
     "repeatPassword": "Korrake salasõna",
     "repositoriesInfo": "Lisaks avalikule kollektsioonile saate paigaldada kohandatud teemapakette oma GitHubi või GitLabi repositooriumidest - avalikest või privaatsetest. Paketi installimiseks peate seadistama autentimise, lisades isikliku juurdepääsutunnuse, millel on lugemisõigus platvormi API-le - isegi avalike repositooriumide puhul.",
     "repositoriesSwitcherTitle": "Erapoolsed repositooriumid",
+    "repositoryAccessError": "Andmebaasile ei ole juurdepääsu. Palun kontrollige, kas teie GitHubi või GitLabi autentimistoken on endiselt kehtiv. Paigaldatud paketti ei ole muudetud.",
     "repositoryAdd": "Paketi lisamine",
     "repositoryAddButton": "Paigaldage",
     "repositoryAddInfo": "Avaliku või privaatse repositooriumi lisamiseks veenduge, et olete andnud kehtiva juurdepääsutunnuse platvormi jaoks, kus repositoorium asub.",
